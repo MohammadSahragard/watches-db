@@ -8,6 +8,7 @@
               "colors": [
                   {
                       "name": "Titanium/Black/Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.com/cdn/shop/products/T2H281.png?v=1686768065&width=900"
                   }
               ],
@@ -51,6 +52,7 @@
               "colors": [
                   {
                       "name": "Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.com/cdn/shop/files/TW2V75100.png?v=1694543537&width=640"
                   }
               ],
@@ -92,6 +94,7 @@
               "colors": [
                   {
                       "name": "Gold-Tone",
+                      "color-back-shape": "gold",
                       "image": "https://timex.com/cdn/shop/files/TW2V84500.png?v=1694545081&width=900"
                   },
                   {
@@ -137,6 +140,7 @@
               "colors": [
                   {
                       "name": "Black/Black/Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.com/cdn/shop/products/TW4B14200.png?v=1684174145&width=900"
                   },
                   {
@@ -188,6 +192,7 @@
               "colors": [
                   {
                       "name": "Green/Gold-Tone/Green/Gold-Tone",
+                      "color-back-shape": "green",
                       "image": "https://timex.com/cdn/shop/products/TW2V90100.png?v=1694616660&width=900"
                   }
               ],
@@ -230,6 +235,7 @@
               "colors": [
                   {
                       "name": "Silver-Tone",
+                      "color-back-shape": "silver",
                       "image": "https://timex.com/cdn/shop/files/TW2V84700.png?v=1694545126&width=900"
                   },
                   {
@@ -275,6 +281,7 @@
               "colors": [
                   {
                       "name": "Stainless Steel/Stainless Steel/Green",
+                      "color-back-shape": "aliceblue",
                       "image": "https://timex.com/cdn/shop/products/TW2U61700.png?v=1686768380&width=900"
                   },
                   {
@@ -326,6 +333,7 @@
               "colors": [
                   {
                       "name": "Two-Tone/Two-Tone/White",
+                      "color-back-shape": "#EFDBB2",
                       "image": "https://timex.com/cdn/shop/products/TW2V40100.png?v=1686768412&width=900"
                   },
                   {
@@ -372,6 +380,7 @@
               "colors": [
                   {
                       "name": "Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.com/cdn/shop/files/TW2V85400.png?v=1694543999&width=900"
                   },
                   {
@@ -417,6 +426,7 @@
               "colors": [
                   {
                       "name": "Silver-Tone/Stainless Steel/Blue",
+                      "color-back-shape": "silver",
                       "image": "https://timex.com/cdn/shop/products/T20031.png?v=1686768064&width=900"
                   },
                   {
@@ -462,6 +472,7 @@
               "colors": [
                   {
                       "name": "Gunmetal/Brown/Blue",
+                      "color-back-shape": "#8E5A48",
                       "image": "https://timex.com/cdn/shop/products/TW2U88200.png?v=1686768383&width=900"
                   },
                   {
@@ -513,6 +524,7 @@
               "colors": [
                   {
                       "name": "Silver-Tone/Brown/Cream",
+                      "color-back-shape": "silver",
                       "image": "https://timex.com/cdn/shop/products/TW2V44100.png?v=1686768585&width=900"
                   },
                   {
@@ -564,6 +576,7 @@
               "colors": [
                   {
                       "name": "Gunmetal/Green/Green",
+                      "color-back-shape": "#8E5A48",
                       "image": "https://timex.com/cdn/shop/products/TW2U89700.png?v=1686768244&width=900"
                   },
                   {
@@ -611,6 +624,7 @@
               "colors": [
                   {
                       "name": "Black/Black/Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.com/cdn/shop/products/TW2V56800.png?v=1686768082&width=900"
                   }
               ],
@@ -653,6 +667,7 @@
               "colors": [
                   {
                       "name": "Silver-Tone/Brown/Black",
+                      "color-back-shape": "silver",
                       "image": "https://timex.com/cdn/shop/products/T49631.png?v=1686768065&width=900"
                   }
               ],
@@ -694,6 +709,7 @@
               "colors": [
                   {
                       "name": "Gold-Tone/Gold-Tone/Blue",
+                      "color-back-shape": "gold",
                       "image": "https://timex.eu/cdn/shop/files/TW2V72900.png?v=1695324736&width=640"
                   },
                   {
@@ -745,6 +761,7 @@
               "colors": [
                   {
                       "name": "Rose Gold-Tone/Rose Gold-Tone/Pink",
+                      "color-back-shape": "#fb7185",
                       "image": "https://timex.eu/cdn/shop/products/TW2V52800_717d832b-0a58-476f-ad25-da34983a6d16.png?v=1687317187&width=640"
                   }
               ],
@@ -783,12 +800,13 @@
           },
           {
               "id": 18,
-              "image": "https://timex.eu/cdn/shop/products/TW2W25100.png?v=1696386425&width=640",
+              "image": "https://timex.eu/cdn/shop/files/TW2W25100.png?v=1697653496&width=640",
               "name": "Timex x The MET Van Gogh 40mm Leather Strap Watch",
               "colors": [
                   {
                       "name": "Other/Silver-Tone",
-                      "image": "https://timex.eu/cdn/shop/products/TW2W25100.png?v=1696386425&width=640"
+                      "color-back-shape": "silver",
+                      "image": "https://timex.eu/cdn/shop/files/TW2W25100.png?v=1697653496&width=640"
                   },
                   {
                       "name": "Other/Silver-Tone/Other",
@@ -820,7 +838,7 @@
                   "Water Resistance": "50 meters"
               },
               "other images": [
-                  "https://timex.eu/cdn/shop/products/TW2W25100.png?v=1696386425&width=640",
+                  "https://timex.eu/cdn/shop/files/TW2W25100.png?v=1697653496&width=640",
                   "https://timex.eu/cdn/shop/products/TW2W25100_B.png?v=1696386425&width=640",
                   "https://timex.eu/cdn/shop/products/TW2W25100_C.png?v=1696386425&width=640",
                   "https://timex.eu/cdn/shop/products/TW2W25100_D.png?v=1696386425&width=640",
@@ -834,6 +852,7 @@
               "colors": [
                   {
                       "name": "White/Rose Gold-Tone/Other",
+                      "color-back-shape": "gray",
                       "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900"
                   }
               ],
@@ -877,6 +896,7 @@
               "colors": [
                   {
                       "name": "Black/Stainless Steel/Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.eu/cdn/shop/products/TW2W12700.png?v=1692377775&width=640"
                   }
               ],
@@ -920,6 +940,7 @@
               "colors": [
                   {
                       "name": "Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.eu/cdn/shop/files/TW2W15900.png?v=1694547247&width=900"
                   },
                   {
@@ -965,6 +986,7 @@
               "colors": [
                   {
                       "name": "Gold-Tone/Teal",
+                      "color-back-shape": "gold",
                       "image": "https://timex.eu/cdn/shop/products/TW2V73000.png?v=1687316433&width=900"
                   }
               ],
@@ -1008,6 +1030,7 @@
               "colors": [
                   {
                       "name": "Rose Gold-Tone",
+                      "color-back-shape": "#fb7185",
                       "image": "https://timex.eu/cdn/shop/files/TW2W19200.png?v=1694546252&width=900"
                   },
                   {
@@ -1055,6 +1078,7 @@
               "colors": [
                   {
                       "name": "Stainless Steel/Blue/White",
+                      "color-back-shape": "#223E65",
                       "image": "https://timex.eu/cdn/shop/products/TW2U97600.png?v=1687313474&width=900"
                   },
                   {
@@ -1102,6 +1126,7 @@
               "colors": [
                   {
                       "name": "Gold-Tone/Two-Tone/Black",
+                      "color-back-shape": "gold",
                       "image": "https://timex.eu/cdn/shop/products/TW2U81600_18b1c737-c528-40e5-9b41-d1968ff44c6c.png?v=1687309985&width=900"
                   },
                   {
@@ -1152,6 +1177,7 @@
               "colors": [
                   {
                       "name": "Rose Gold-Tone/Rose Gold-Tone/Pink",
+                      "color-back-shape": "#223E65",
                       "image": "https://timex.eu/cdn/shop/products/TW2V52600_91acded7-816a-4bd8-afb6-51f3c524961f.png?v=1687316868&width=640"
                   }
               ],
@@ -1195,6 +1221,7 @@
               "colors": [
                   {
                       "name": "Silver-Tone/Pink/White",
+                      "color-back-shape": "silver",
                       "image": "https://timex.eu/cdn/shop/products/TW2V77800.png?v=1687318939&width=900"
                   },
                   {
@@ -1245,6 +1272,7 @@
               "colors": [
                   {
                       "name": "Rose Gold-Tone/Two-Tone/Pink",
+                      "color-back-shape": "#223E65",
                       "image": "https://timex.eu/cdn/shop/products/TW2U81500_2cf738ea-b644-4984-92c9-b91aaaf61b54.png?v=1687309967&width=900"
                   },
                   {
@@ -1291,6 +1319,7 @@
               "colors": [
                   {
                       "name": "Stainless Steel/Green/White",
+                      "color-back-shape": "#466149",
                       "image": "https://timex.eu/cdn/shop/products/TW2U96700_e0d547df-613b-4ade-a0f3-13f8a1f46cc8.png?v=1687308882&width=900"
                   }
               ],
@@ -1333,6 +1362,7 @@
               "colors": [
                   {
                       "name": "Pink/Pink/Pink",
+                      "color-back-shape": "pink",
                       "image": "https://timex.eu/cdn/shop/products/TW2V33100_4e2b22ff-8bef-4cd9-8c7f-f1e4cc1e2a88.png?v=1687311230&width=900"
                   },
                   {
@@ -1389,6 +1419,7 @@
               "colors": [
                   {
                       "name": "Gold-Tone/Gold-Tone/Blue",
+                      "color-back-shape": "gold",
                       "image": "https://timex.eu/cdn/shop/files/TW2V72900.png?v=1695324736&width=640"
                   },
                   {
@@ -1440,6 +1471,7 @@
               "colors": [
                   {
                       "name": "Stainless Steel",
+                      "color-back-shape": "aliceblue",
                       "image": "https://timex.com/cdn/shop/products/TW2V91900.png?v=1697482755&width=900"
                   },
                   {
@@ -1489,6 +1521,7 @@
               "colors": [
                   {
                       "name": "Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.eu/cdn/shop/files/TW2V66100.png?v=1694545206&width=900"
                   },
                   {
@@ -1534,6 +1567,7 @@
               "colors": [
                   {
                       "name": "Blue",
+                      "color-back-shape": "blue",
                       "image": "https://timex.eu/cdn/shop/files/TW2W22000.png?v=1695321604&width=640"
                   },
                   {
@@ -1579,6 +1613,7 @@
               "colors": [
                   {
                       "name": "Black",
+                      "color-back-shape": "black",
                       "image": "https://timex.eu/cdn/shop/files/TW2V91700.png?v=1694545330&width=900"
                   },
                   {
@@ -1626,6 +1661,7 @@
               "colors": [
                   {
                       "name": "White/Rose Gold-Tone/Other",
+                      "color-back-shape": "#f472b6",
                       "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900"
                   }
               ],
@@ -1669,6 +1705,7 @@
               "colors": [
                   {
                       "name": "Stainless Steel",
+                      "color-back-shape": "aliceblue",
                       "image": "https://timex.eu/cdn/shop/files/TW2W14800.png?v=1694545799&width=900"
                   }
               ],
@@ -1712,6 +1749,7 @@
               "colors": [
                   {
                       "name": "Purple",
+                      "color-back-shape": "purple",
                       "image": "https://timex.eu/cdn/shop/products/TW2U93900_27591600-8bc5-4057-bc18-dd90dd464442.png?v=1687309105&width=900"
                   }
               ],
@@ -1754,6 +1792,7 @@
               "colors": [
                   {
                       "name": "Purple",
+                      "color-back-shape": "purple",
                       "image": "https://timex.eu/cdn/shop/products/TW2U90900_a15a0e6a-4df8-424f-875c-bb8964d5cd5e.png?v=1687313214&width=900"
                   }
               ],
@@ -1797,6 +1836,7 @@
               "colors": [
                   {
                       "name": "Purple",
+                      "color-back-shape": "purple",
                       "image": "https://timex.eu/cdn/shop/products/TW2U90700_d3918f6e-ecf9-4c99-b27c-181b2320eb0a.png?v=1687313255&width=900"
                   }
               ],
@@ -1840,6 +1880,7 @@
               "colors": [
                   {
                       "name": "Stainless Steel/Black/Blue",
+                      "color-back-shape": "blue",
                       "image": "https://timex.eu/cdn/shop/products/TW2U55700_23a07736-1789-4bc8-8cfe-2abece37d159.png?v=1687307994&width=900"
                   }
               ],
@@ -1883,6 +1924,7 @@
               "colors": [
                   {
                       "name": "Blue/Blue/Blue",
+                      "color-back-shape": "blue",
                       "image": "https://timex.eu/cdn/shop/products/TW2V53500_2178d814-2b7d-4371-bf16-195cd59d1960.png?v=1687316049&width=900"
                   },
                   {
@@ -1930,6 +1972,7 @@
               "colors": [
                   {
                       "name": "Rose Gold-Tone/Rose Gold-Tone/Pink",
+                      "color-back-shape": "#f472b6",
                       "image": "https://timex.eu/cdn/shop/products/TW2T74500_b5239136-7246-4370-b9b8-5ce491b0addf.png?v=1687311747&width=900"
                   }
               ],
@@ -1973,6 +2016,7 @@
               "colors": [
                   {
                       "name": "Rose Gold-Tone/Pink/White",
+                      "color-back-shape": "#f472b6",
                       "image": "https://timex.eu/cdn/shop/products/TW2T74300_0d39151e-9b17-43d8-91c2-e4cb59c2e75c.png?v=1687311763&width=900"
                   }
               ],
@@ -2016,6 +2060,7 @@
               "colors": [
                   {
                       "name": "White/Gold",
+                      "color-back-shape": "gold",
                       "image": "https://timex.eu/cdn/shop/products/TW2U98400_6f0a6aaf-67d3-4b5c-9d46-c4ffa50e86f7.png?v=1687312511&width=900"
                   }
               ],
@@ -2059,6 +2104,7 @@
               "colors": [
                   {
                       "name": "Black/Gold",
+                      "color-back-shape": "gold",
                       "image": "https://timex.eu/cdn/shop/products/TW2U41200_88d31629-afde-4b3c-949d-9f21a1efa518.png?v=1687310457&width=900"
                   }
               ],
@@ -2100,6 +2146,7 @@
               "colors": [
                   {
                       "name": "Pink/Pink/White",
+                      "color-back-shape": "pink",
                       "image": "https://timex.eu/cdn/shop/products/TW7C25500_1bea70ec-d680-48ef-af6d-48537cde0b84.png?v=1687314245&width=900"
                   }
               ],
@@ -2141,6 +2188,7 @@
               "colors": [
                   {
                       "name": "Blue/Blue/White",
+                      "color-back-shape": "blue",
                       "image": "https://timex.eu/cdn/shop/products/TW7C25600_5a142970-ea1e-41ec-aa0a-fd94ea089843.png?v=1687314261&width=900"
                   }
               ],
@@ -2182,6 +2230,7 @@
               "colors": [
                   {
                       "name": "Black/Green/Digital",
+                      "color-back-shape": "green",
                       "image": "https://timex.eu/cdn/shop/products/TW7C77500.png?v=1687314195&width=900"
                   }
               ],
@@ -2225,6 +2274,7 @@
               "colors": [
                   {
                       "name": "Pink/Pink/White",
+                      "color-back-shape": "pink",
                       "image": "https://timex.eu/cdn/shop/products/T7B151_adc8fa40-72ec-4964-9179-619dfe04790b.png?v=1687314114&width=900"
                   }
               ],
@@ -2267,6 +2317,7 @@
               "colors": [
                   {
                       "name": "Blue/Blue/White",
+                      "color-back-shape": "blue",
                       "image": "https://timex.eu/cdn/shop/products/TW7C16500_faf4c82c-ccde-4d58-bd03-53736dbc1138.png?v=1687314229&width=900"
                   },
                   {
@@ -2312,6 +2363,7 @@
               "colors": [
                   {
                       "name": "Blue/Blue/White",
+                      "color-back-shape": "blue",
                       "image": "https://timex.eu/cdn/shop/products/TW7C12200_8dc7d435-f16c-4c18-b3de-a2ce18158655.png?v=1687314281&width=900"
                   },
                   {
@@ -2357,6 +2409,7 @@
               "colors": [
                   {
                       "name": "Pink/Blue/White",
+                      "color-back-shape": "pink",
                       "image": "https://timex.eu/cdn/shop/products/T89001_4f5d3a2e-2981-49c0-ba91-d5d34fb05bc8.png?v=1687314068&width=900"
                   }
               ],
@@ -2395,6 +2448,7 @@
               "colors": [
                   {
                       "name": "Blue/Blue/White",
+                      "color-back-shape": "blue",
                       "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900"
                   }
               ],
@@ -2438,6 +2492,7 @@
               "colors": [
                   {
                       "name": "Pink/Pink/Blue",
+                      "color-back-shape": "pink",
                       "image": "https://timex.eu/cdn/shop/products/TW7C77100_98186ef7-9429-44dd-9549-86d773d3cc8e.png?v=1687314131&width=900"
                   },
                   {
@@ -2485,6 +2540,7 @@
               "colors": [
                   {
                       "name": "Green/Green/White",
+                      "color-back-shape": "green",
                       "image": "https://timex.eu/cdn/shop/products/T78141_aa7f4142-e0b8-48cc-bc3b-0c21cd04ab13.png?v=1687314080&width=900"
                   }
               ],
