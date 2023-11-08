@@ -12,6 +12,7 @@
   "routes": [
     {
       "src": "/(.*)",
+      "/posts/:category": "/posts?category=:category",
       "dest": "server.js"
     }
   ]
