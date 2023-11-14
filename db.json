@@ -2538,14 +2538,16 @@
             "image": "https://timex.com/cdn/shop/products/TW2V91900.png?v=1697482755&width=900",
             "name": "Harborside Coast 43mm Stainless Steel Bracelet Watch",
             "price": 119.00,
-            "rate": 4
+            "rate": 4,
+            "quantity": 1
         },
         {
             "productId": 15,
             "image": "https://timex.com/cdn/shop/products/T49631.png?v=1686768065&width=900",
             "name": "Expedition Metal Tech 40mm Leather Strap Watch",
             "price": 62.00,
-            "rate": 5
+            "rate": 5,
+            "quantity": 1
         }
     ]
 }
