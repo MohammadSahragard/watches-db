@@ -1376,6 +1376,428 @@
                 "https://timex.eu/cdn/shop/products/TW2V33100_D.png?v=1687311230&width=640",
                 "https://timex.eu/cdn/shop/products/TW2V33100_I.png?v=1687311230&width=640"
             ]
+        },{
+            "id": 47,
+            "image": "https://timex.eu/cdn/shop/products/TW7C25500_1bea70ec-d680-48ef-af6d-48537cde0b84.png?v=1687314245&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Rainbow Unicorn Pink Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Pink/Pink/White",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C25500_1bea70ec-d680-48ef-af6d-48537cde0b84.png?v=1687314245&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 5,
+            "description": "Made just for kids, our pink unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "specification": {
+                "Product": "TW7C25500",
+                "Attachment Hardware Color": "Pink",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Pink",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Translucent",
+                "Case Height": "9 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW7C25500_1bea70ec-d680-48ef-af6d-48537cde0b84.png?v=1687314245&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C25500_B.png?v=1687314245&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C25500_C.png?v=1687314245&width=640"
+            ]
+        },
+        {
+            "id": 48,
+            "image": "https://timex.eu/cdn/shop/products/TW7C25600_5a142970-ea1e-41ec-aa0a-fd94ea089843.png?v=1687314261&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Rainbow Unicorn Teal Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Blue/Blue/White",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C25600_5a142970-ea1e-41ec-aa0a-fd94ea089843.png?v=1687314261&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 5,
+            "description": "Made just for kids, our teal unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "specification": {
+                "Product": "TW7C25600",
+                "Attachment Hardware Color": "Blue",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Blue",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Translucent",
+                "Case Height": "9 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW7C25600_5a142970-ea1e-41ec-aa0a-fd94ea089843.png?v=1687314261&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C25600_B.png?v=1687314261&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C25600_C.png?v=1687314261&width=640"
+            ]
+        },
+        {
+            "id": 49,
+            "image": "https://timex.eu/cdn/shop/products/TW7C77500.png?v=1687314195&width=900",
+            "name": "TIMEX TIME MACHINES 35mm Green/Brown Camo Fast Wrap Kids Digital Watch",
+            "colors": [
+                {
+                    "name": "Black/Green/Digital",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C77500.png?v=1687314195&width=900"
+                }
+            ],
+            "price": 35.00,
+            "weight": "39 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 4,
+            "description": "Made just for kids, our green camo digital watch features an easy-to-read display, fast wrap fabric strap, INDIGLO backlight and is 50 meter water resistant. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "specification": {
+                "Product": "TW7C77500",
+                "Attachment Hardware Color": "Green",
+                "Band Material": "Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Black",
+                "Case Diameter": "35 mm",
+                "Case Finish": "Matte / Shiney",
+                "Case Height": "12.5 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Mid Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "Digital",
+                "Dial Markings": "Digital",
+                "Strap and Lug Width": "18 mm",
+                "Watch Movement": "Quartz Digital",
+                "Water Resistance": "50 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW7C77500.png?v=1687314195&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C77500_B.png?v=1687314195&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77500_C.png?v=1687314195&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77500_D.png?v=1687314195&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77500_I.png?v=1687314195&width=640"
+            ]
+        },
+        {
+            "id": 50,
+            "image": "https://timex.eu/cdn/shop/products/T7B151_adc8fa40-72ec-4964-9179-619dfe04790b.png?v=1687314114&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Pink Ballerina Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Pink/Pink/White",
+                    "image": "https://timex.eu/cdn/shop/products/T7B151_adc8fa40-72ec-4964-9179-619dfe04790b.png?v=1687314114&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 3,
+            "description": "Once upon a time children were proud to tell time on their own. This just-for-kids watch will help them on their way, so they can live happily ever after…and on time.",
+            "specification": {
+                "Product": "T7B151",
+                "Attachment Hardware Color": "Pink",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Pink",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Matte",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/T7B151_adc8fa40-72ec-4964-9179-619dfe04790b.png?v=1687314114&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C77500_B.png?v=1687314195&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77500_C.png?v=1687314195&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77500_D.png?v=1687314195&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77500_I.png?v=1687314195&width=640"
+            ]
+        },
+        {
+            "id": 51,
+            "image": "https://timex.eu/cdn/shop/products/TW7C16500_faf4c82c-ccde-4d58-bd03-53736dbc1138.png?v=1687314229&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Blue Soccer Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Blue/Blue/White",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C16500_faf4c82c-ccde-4d58-bd03-53736dbc1138.png?v=1687314229&width=900"
+                },
+                {
+                    "name": "Blue/Blue/White",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 3,
+            "description": "Made just for kids, our soccer-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "specification": {
+                "Product": "TW7C16500",
+                "Attachment Hardware Color": "Blue",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Blue",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Translucent",
+                "Case Height": "9 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW7C16500_faf4c82c-ccde-4d58-bd03-53736dbc1138.png?v=1687314229&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C16500_B.png?v=1687314229&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C16500_C.png?v=1687314229&width=640"
+            ]
+        },
+        {
+            "id": 52,
+            "image": "https://timex.eu/cdn/shop/products/TW7C12200_8dc7d435-f16c-4c18-b3de-a2ce18158655.png?v=1687314281&width=900",
+            "name": "Kids Analog 32mm Fabric Strap Watch",
+            "colors": [
+                {
+                    "name": "Blue/Blue/White",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C12200_8dc7d435-f16c-4c18-b3de-a2ce18158655.png?v=1687314281&width=900"
+                },
+                {
+                    "name": "Blue/Blue/White",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "32 mm",
+            "category": "Kids",
+            "collection": "Analog",
+            "rate": 5,
+            "description": "Our Time Machines™ collection offers watches just for kids that have easy-to-read dials, adjustable Fabric bands and are 30 meter water resistant. This unique purple space-dye athleisure design will match any child’s personality!",
+            "specification": {
+                "Product": "TW7C12200",
+                "Attachment Hardware Color": "Purple",
+                "Band Material": "Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Purple",
+                "Case Diameter": "32 mm",
+                "Case Finish": "Matte",
+                "Case Height": "8.5 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW7C12200_8dc7d435-f16c-4c18-b3de-a2ce18158655.png?v=1687314281&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C12200_B.png?v=1687314281&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C12200_C.png?v=1687314281&width=640"
+            ]
+        },
+        {
+            "id": 54,
+            "image": "https://timex.eu/cdn/shop/products/T89001_4f5d3a2e-2981-49c0-ba91-d5d34fb05bc8.png?v=1687314068&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Butterflies and Hearts Blue Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Pink/Blue/White",
+                    "image": "https://timex.eu/cdn/shop/products/T89001_4f5d3a2e-2981-49c0-ba91-d5d34fb05bc8.png?v=1687314068&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 3,
+            "description": "Once upon a time children were proud to tell time on their own. This just-for-kids watch will help them on their way, so they can live happily ever after…and on time.",
+            "specification": {
+                "Product": "T89001",
+                "Attachment Hardware Color": "Blue",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Pink",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Matte",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/T89001_4f5d3a2e-2981-49c0-ba91-d5d34fb05bc8.png?v=1687314068&width=900"
+            ]
+        },
+        {
+            "id": 55,
+            "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Blue Shark Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Blue/Blue/White",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 3,
+            "description": "Our Time Machines™ collection offers analog watches just for kids that have easy-to-read dials, minute markers, labeled hands, rotating graphics and adjustable elastic bands. This unique blue shark beach design will match any child’s personality!",
+            "specification": {
+                "Product": "TW7C13500",
+                "Attachment Hardware Color": "Blue",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Blue",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Translucent",
+                "Case Height": "9 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C13500_B.png?v=1687314215&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C13500_C.png?v=1687314215&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C13500_D.png?v=1687314215&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C13500_I.png?v=1687314215&width=640"
+            ]
+        },
+        {
+            "id": 56,
+            "image": "https://timex.eu/cdn/shop/products/TW7C77100_98186ef7-9429-44dd-9549-86d773d3cc8e.png?v=1687314131&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Pink Panda Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Pink/Pink/Blue",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C77100_98186ef7-9429-44dd-9549-86d773d3cc8e.png?v=1687314131&width=900"
+                },
+                {
+                    "name": "Blue/White/Blue",
+                    "image": "https://timex.eu/cdn/shop/products/TW7C77300.png?v=1687314151&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 4,
+            "description": "Made just for kids, our pink panda-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "specification": {
+                "Product": "TW7C77100",
+                "Attachment Hardware Color": "Pink",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Pink",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Translucent",
+                "Case Height": "9 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "Blue",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW7C77100_98186ef7-9429-44dd-9549-86d773d3cc8e.png?v=1687314131&width=900",
+                "https://timex.eu/cdn/shop/products/TW7C77100_B.png?v=1687314131&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77100_C.png?v=1687314131&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77100_D.png?v=1687314131&width=640",
+                "https://timex.eu/cdn/shop/products/TW7C77100_I.png?v=1687314131&width=640"
+            ]
+        },
+        {
+            "id": 57,
+            "image": "https://timex.eu/cdn/shop/products/T78141_aa7f4142-e0b8-48cc-bc3b-0c21cd04ab13.png?v=1687314080&width=900",
+            "name": "TIMEX TIME MACHINES 29mm Green Camo Elastic Fabric Kids Watch",
+            "colors": [
+                {
+                    "name": "Green/Green/White",
+                    "image": "https://timex.eu/cdn/shop/products/T78141_aa7f4142-e0b8-48cc-bc3b-0c21cd04ab13.png?v=1687314080&width=900"
+                }
+            ],
+            "price": 29.00,
+            "weight": "29 mm",
+            "category": "Kids",
+            "collection": "MACHINES",
+            "rate": 4,
+            "description": "Once upon a time children were proud to tell time on their own. This just-for-kids watch will help them on their way, so they can live happily ever after…and on time.",
+            "specification": {
+                "Product": "T78141",
+                "Attachment Hardware Color": "Green",
+                "Band Material": "Elastic Fabric",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Green",
+                "Case Diameter": "29 mm",
+                "Case Finish": "Translucent",
+                "Case Material": "Resin",
+                "Case Shape": "Round",
+                "Case Size": "Small Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "White",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/T78141_aa7f4142-e0b8-48cc-bc3b-0c21cd04ab13.png?v=1687314080&width=900"
+            ]
         }
     ],
     "trending": [
@@ -2086,431 +2508,6 @@
             },
             "other images": [
                 "https://timex.eu/cdn/shop/products/TW2U41200_88d31629-afde-4b3c-949d-9f21a1efa518.png?v=1687310457&width=900"
-            ]
-        }
-    ],
-    "kids": [
-        {
-            "id": 47,
-            "image": "https://timex.eu/cdn/shop/products/TW7C25500_1bea70ec-d680-48ef-af6d-48537cde0b84.png?v=1687314245&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Rainbow Unicorn Pink Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Pink/Pink/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C25500_1bea70ec-d680-48ef-af6d-48537cde0b84.png?v=1687314245&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 5,
-            "description": "Made just for kids, our pink unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
-            "specification": {
-                "Product": "TW7C25500",
-                "Attachment Hardware Color": "Pink",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Pink",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Translucent",
-                "Case Height": "9 mm",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW7C25500_1bea70ec-d680-48ef-af6d-48537cde0b84.png?v=1687314245&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C25500_B.png?v=1687314245&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C25500_C.png?v=1687314245&width=640"
-            ]
-        },
-        {
-            "id": 48,
-            "image": "https://timex.eu/cdn/shop/products/TW7C25600_5a142970-ea1e-41ec-aa0a-fd94ea089843.png?v=1687314261&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Rainbow Unicorn Teal Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Blue/Blue/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C25600_5a142970-ea1e-41ec-aa0a-fd94ea089843.png?v=1687314261&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 5,
-            "description": "Made just for kids, our teal unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
-            "specification": {
-                "Product": "TW7C25600",
-                "Attachment Hardware Color": "Blue",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Blue",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Translucent",
-                "Case Height": "9 mm",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW7C25600_5a142970-ea1e-41ec-aa0a-fd94ea089843.png?v=1687314261&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C25600_B.png?v=1687314261&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C25600_C.png?v=1687314261&width=640"
-            ]
-        },
-        {
-            "id": 49,
-            "image": "https://timex.eu/cdn/shop/products/TW7C77500.png?v=1687314195&width=900",
-            "name": "TIMEX TIME MACHINES 35mm Green/Brown Camo Fast Wrap Kids Digital Watch",
-            "colors": [
-                {
-                    "name": "Black/Green/Digital",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C77500.png?v=1687314195&width=900"
-                }
-            ],
-            "price": 35.00,
-            "weight": "39 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 4,
-            "description": "Made just for kids, our green camo digital watch features an easy-to-read display, fast wrap fabric strap, INDIGLO backlight and is 50 meter water resistant. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
-            "specification": {
-                "Product": "TW7C77500",
-                "Attachment Hardware Color": "Green",
-                "Band Material": "Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Black",
-                "Case Diameter": "35 mm",
-                "Case Finish": "Matte / Shiney",
-                "Case Height": "12.5 mm",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Mid Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "Digital",
-                "Dial Markings": "Digital",
-                "Strap and Lug Width": "18 mm",
-                "Watch Movement": "Quartz Digital",
-                "Water Resistance": "50 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW7C77500.png?v=1687314195&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C77500_B.png?v=1687314195&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77500_C.png?v=1687314195&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77500_D.png?v=1687314195&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77500_I.png?v=1687314195&width=640"
-            ]
-        },
-        {
-            "id": 50,
-            "image": "https://timex.eu/cdn/shop/products/T7B151_adc8fa40-72ec-4964-9179-619dfe04790b.png?v=1687314114&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Pink Ballerina Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Pink/Pink/White",
-                    "image": "https://timex.eu/cdn/shop/products/T7B151_adc8fa40-72ec-4964-9179-619dfe04790b.png?v=1687314114&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 3,
-            "description": "Once upon a time children were proud to tell time on their own. This just-for-kids watch will help them on their way, so they can live happily ever after…and on time.",
-            "specification": {
-                "Product": "T7B151",
-                "Attachment Hardware Color": "Pink",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Pink",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Matte",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/T7B151_adc8fa40-72ec-4964-9179-619dfe04790b.png?v=1687314114&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C77500_B.png?v=1687314195&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77500_C.png?v=1687314195&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77500_D.png?v=1687314195&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77500_I.png?v=1687314195&width=640"
-            ]
-        },
-        {
-            "id": 51,
-            "image": "https://timex.eu/cdn/shop/products/TW7C16500_faf4c82c-ccde-4d58-bd03-53736dbc1138.png?v=1687314229&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Blue Soccer Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Blue/Blue/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C16500_faf4c82c-ccde-4d58-bd03-53736dbc1138.png?v=1687314229&width=900"
-                },
-                {
-                    "name": "Blue/Blue/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 3,
-            "description": "Made just for kids, our soccer-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
-            "specification": {
-                "Product": "TW7C16500",
-                "Attachment Hardware Color": "Blue",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Blue",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Translucent",
-                "Case Height": "9 mm",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW7C16500_faf4c82c-ccde-4d58-bd03-53736dbc1138.png?v=1687314229&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C16500_B.png?v=1687314229&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C16500_C.png?v=1687314229&width=640"
-            ]
-        },
-        {
-            "id": 52,
-            "image": "https://timex.eu/cdn/shop/products/TW7C12200_8dc7d435-f16c-4c18-b3de-a2ce18158655.png?v=1687314281&width=900",
-            "name": "Kids Analog 32mm Fabric Strap Watch",
-            "colors": [
-                {
-                    "name": "Blue/Blue/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C12200_8dc7d435-f16c-4c18-b3de-a2ce18158655.png?v=1687314281&width=900"
-                },
-                {
-                    "name": "Blue/Blue/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "32 mm",
-            "category": "Kids",
-            "collection": "Analog",
-            "rate": 5,
-            "description": "Our Time Machines™ collection offers watches just for kids that have easy-to-read dials, adjustable Fabric bands and are 30 meter water resistant. This unique purple space-dye athleisure design will match any child’s personality!",
-            "specification": {
-                "Product": "TW7C12200",
-                "Attachment Hardware Color": "Purple",
-                "Band Material": "Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Purple",
-                "Case Diameter": "32 mm",
-                "Case Finish": "Matte",
-                "Case Height": "8.5 mm",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW7C12200_8dc7d435-f16c-4c18-b3de-a2ce18158655.png?v=1687314281&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C12200_B.png?v=1687314281&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C12200_C.png?v=1687314281&width=640"
-            ]
-        },
-        {
-            "id": 54,
-            "image": "https://timex.eu/cdn/shop/products/T89001_4f5d3a2e-2981-49c0-ba91-d5d34fb05bc8.png?v=1687314068&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Butterflies and Hearts Blue Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Pink/Blue/White",
-                    "image": "https://timex.eu/cdn/shop/products/T89001_4f5d3a2e-2981-49c0-ba91-d5d34fb05bc8.png?v=1687314068&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 3,
-            "description": "Once upon a time children were proud to tell time on their own. This just-for-kids watch will help them on their way, so they can live happily ever after…and on time.",
-            "specification": {
-                "Product": "T89001",
-                "Attachment Hardware Color": "Blue",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Pink",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Matte",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/T89001_4f5d3a2e-2981-49c0-ba91-d5d34fb05bc8.png?v=1687314068&width=900"
-            ]
-        },
-        {
-            "id": 55,
-            "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Blue Shark Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Blue/Blue/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 3,
-            "description": "Our Time Machines™ collection offers analog watches just for kids that have easy-to-read dials, minute markers, labeled hands, rotating graphics and adjustable elastic bands. This unique blue shark beach design will match any child’s personality!",
-            "specification": {
-                "Product": "TW7C13500",
-                "Attachment Hardware Color": "Blue",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Blue",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Translucent",
-                "Case Height": "9 mm",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW7C13500_a8ec83ed-4bd9-45fe-845a-4a12d7e327fc.png?v=1687314215&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C13500_B.png?v=1687314215&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C13500_C.png?v=1687314215&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C13500_D.png?v=1687314215&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C13500_I.png?v=1687314215&width=640"
-            ]
-        },
-        {
-            "id": 56,
-            "image": "https://timex.eu/cdn/shop/products/TW7C77100_98186ef7-9429-44dd-9549-86d773d3cc8e.png?v=1687314131&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Pink Panda Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Pink/Pink/Blue",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C77100_98186ef7-9429-44dd-9549-86d773d3cc8e.png?v=1687314131&width=900"
-                },
-                {
-                    "name": "Blue/White/Blue",
-                    "image": "https://timex.eu/cdn/shop/products/TW7C77300.png?v=1687314151&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 4,
-            "description": "Made just for kids, our pink panda-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
-            "specification": {
-                "Product": "TW7C77100",
-                "Attachment Hardware Color": "Pink",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Pink",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Translucent",
-                "Case Height": "9 mm",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "Blue",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW7C77100_98186ef7-9429-44dd-9549-86d773d3cc8e.png?v=1687314131&width=900",
-                "https://timex.eu/cdn/shop/products/TW7C77100_B.png?v=1687314131&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77100_C.png?v=1687314131&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77100_D.png?v=1687314131&width=640",
-                "https://timex.eu/cdn/shop/products/TW7C77100_I.png?v=1687314131&width=640"
-            ]
-        },
-        {
-            "id": 57,
-            "image": "https://timex.eu/cdn/shop/products/T78141_aa7f4142-e0b8-48cc-bc3b-0c21cd04ab13.png?v=1687314080&width=900",
-            "name": "TIMEX TIME MACHINES 29mm Green Camo Elastic Fabric Kids Watch",
-            "colors": [
-                {
-                    "name": "Green/Green/White",
-                    "image": "https://timex.eu/cdn/shop/products/T78141_aa7f4142-e0b8-48cc-bc3b-0c21cd04ab13.png?v=1687314080&width=900"
-                }
-            ],
-            "price": 29.00,
-            "weight": "29 mm",
-            "category": "Kids",
-            "collection": "MACHINES",
-            "rate": 4,
-            "description": "Once upon a time children were proud to tell time on their own. This just-for-kids watch will help them on their way, so they can live happily ever after…and on time.",
-            "specification": {
-                "Product": "T78141",
-                "Attachment Hardware Color": "Green",
-                "Band Material": "Elastic Fabric",
-                "Buckle/Clasp": "Buckle",
-                "Case Color": "Green",
-                "Case Diameter": "29 mm",
-                "Case Finish": "Translucent",
-                "Case Material": "Resin",
-                "Case Shape": "Round",
-                "Case Size": "Small Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "White",
-                "Dial Markings": "Arabic (Full)",
-                "Strap and Lug Width": "16 mm",
-                "Watch Movement": "Quartz Analog",
-                "Water Resistance": "30 meters"
-            },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/T78141_aa7f4142-e0b8-48cc-bc3b-0c21cd04ab13.png?v=1687314080&width=900"
             ]
         }
     ],
