@@ -320,16 +320,16 @@
         },
         {
             "id": 8,
-            "image": "https://timex.eu/cdn/shop/products/TW2V40100_4cad82cc-c530-4915-a0b4-9158d362bbaf.png?v=1687318489&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/Easy%20Reader%2038mm%20Stainless%20Steel%20Expansion%20Band%20Watch%20with%20Perfect%20Fit.webp",
             "name": "Easy Reader 38mm Stainless Steel Expansion Band Watch with Perfect Fit",
             "colors": [
                 {
                     "name": "Two-Tone/Two-Tone/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V40100_4cad82cc-c530-4915-a0b4-9158d362bbaf.png?v=1687318489&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/Easy%20Reader%2038mm%20Stainless%20Steel%20Expansion%20Band%20Watch%20with%20Perfect%20Fit.webp"
                 },
                 {
-                    "name": "Silver-Tone/Silver-Tone/White",
-                    "image": "https://timex.com/cdn/shop/products/TW2V40000.png?v=1686768259&width=900"
+                    "name": "Silver-Tone/Silver-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/Silver-Tone_Silver-Tone.webp"
                 }
             ],
             "price": 69.00,
@@ -357,25 +357,24 @@
                 "Water Resistance": "30 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2V40100_4cad82cc-c530-4915-a0b4-9158d362bbaf.png?v=1687318489&width=900",
-                "https://timex.com/cdn/shop/products/TW2V40100_B_a0bccba6-ef8c-449a-b5bc-d6341d101294.png?v=1686768414&width=640",
-                "https://timex.com/cdn/shop/products/TW2V40100_C_f337d2fb-84a6-45da-b0c0-5773da18375a.png?v=1686768416&width=640",
-                "https://timex.com/cdn/shop/products/TW2V40100_D.png?v=1686768417&width=640",
-                "https://timex.com/cdn/shop/products/TW2V40100_I.png?v=1686768421&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/behind.webp"
             ]
         },
         {
             "id": 9,
-            "image": "https://timex.com/cdn/shop/products/TW2V85400.png?v=1697726325&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/Timex%20UFC%20Reveal%2041mm%20Silicone%20Backed%20Leather%20Strap%20Watch.webp",
             "name": "Timex UFC Reveal 41mm Silicone Backed Leather Strap Watch",
             "colors": [
                 {
                     "name": "Black",
-                    "image": "https://timex.com/cdn/shop/products/TW2V85400.png?v=1697726325&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/Timex%20UFC%20Reveal%2041mm%20Silicone%20Backed%20Leather%20Strap%20Watch.webp"
                 },
                 {
                     "name": "Blue",
-                    "image": "https://timex.com/cdn/shop/files/TW2V85700.png?v=1694788480&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/Blue_Gunmetal_Blue_IP%20Gun.webp"
                 }
             ],
             "price": 115.00,
@@ -402,29 +401,28 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2V85400.png?v=1697726325&width=900",
-                "https://timex.com/cdn/shop/files/TW2V85400_B.png?v=1694544000&width=640",
-                "https://timex.com/cdn/shop/files/TW2V85400_C.png?v=1694543999&width=640",
-                "https://timex.com/cdn/shop/files/TW2V85400_D.png?v=1694543999&width=640",
-                "https://timex.com/cdn/shop/files/TW2V85400_I.png?v=1694543999&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/behind.webp"
             ]
         },
         {
             "id": 10,
-            "image": "https://timex.com/cdn/shop/products/T20031.png?v=1686768064&width=900",
-            "name": "Easy Reader Day Date 35mm Expansion Band Watch",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/Modern%20Easy%20Reader%2032mm%20Leather%20Strap%20Watch.webp",
+            "name": "Modern Easy Reader® 32mm Leather Strap Watch",
             "colors": [
                 {
-                    "name": "Silver-Tone/Stainless Steel/Blue",
-                    "image": "https://timex.com/cdn/shop/products/T20031.png?v=1686768064&width=900"
+                    "name": "Blue/Gold-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/Modern%20Easy%20Reader%2032mm%20Leather%20Strap%20Watch.webp"
                 },
                 {
-                    "name": "Gold-Tone/Gold-Tone/White",
-                    "image": "https://timex.com/cdn/shop/products/T2N092.png?v=1686768064&width=900"
+                    "name": "Pink/Rose Gold-Tone/White/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/Pink_Rose%20Gold-Tone_White_N_A.webp"
                 },
                 {
-                    "name": "Silver-Tone/Stainless Steel/White",
-                    "image": "https://timex.com/cdn/shop/products/T2N091.png?v=1684174129&width=900"
+                    "name": "Burgundy/Silver-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/Burgundy_Silver-Tone.webp"
                 }
             ],
             "price": 60.00,
@@ -434,7 +432,7 @@
             "rate": 5,
             "description": "IT TAKES A LICKING AND KEEPS ON TICKING. The direct descendant of our 1960's televised torture test survivors, today's Easy Reader is as durable as it is classically cool.",
             "specification": {
-                "Product": "T20031",
+                "Product": "TW2V36200",
                 "Attachment Color": "Stainless Steel",
                 "Band Material": "Stainless Steel",
                 "Case Color": "Silver-Tone",
@@ -451,25 +449,28 @@
                 "Water Resistance": "30 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/T20031.png?v=1686768064&width=900"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/behind.webp"
             ]
         },
         {
             "id": 11,
-            "image": "https://timex.com/cdn/shop/products/TW2U88200.png?v=1686768383&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/Waterbury%20Classic%20Chronograph%2040mm%20Leather%20Strap%20Watch.webp",
             "name": "Waterbury Classic Chronograph 40mm Leather Strap Watch",
             "colors": [
                 {
                     "name": "Gunmetal/Brown/Blue",
-                    "image": "https://timex.com/cdn/shop/products/TW2U88200.png?v=1686768383&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/Waterbury%20Classic%20Chronograph%2040mm%20Leather%20Strap%20Watch.webp"
+                },
+                {
+                    "name": "Stainless Steel/Black/Black",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/Black_Stainless%20Steel_Black_N_A.webp"
                 },
                 {
                     "name": "Stainless Steel/Black/White",
-                    "image": "https://timex.com/cdn/shop/products/TW2U88100.png?v=1686768380&width=900"
-                },
-                {
-                    "name": "Stainless Steel/Black/White",
-                    "image": "https://timex.com/cdn/shop/products/TW2U88300.png?v=1686768380&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/Black_Stainless%20Steel_White_N_A.webp"
                 }
             ],
             "price": 149.00,
@@ -498,29 +499,28 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2U88200.png?v=1686768383&width=900",
-                "https://timex.com/cdn/shop/products/TW2U88300_B.png?v=1686768382&width=640",
-                "https://timex.com/cdn/shop/products/TW2U88300_C.png?v=1686768384&width=640",
-                "https://timex.com/cdn/shop/products/TW2U88300_D.png?v=1686768386&width=640",
-                "https://timex.com/cdn/shop/products/TW2U88300_I.png?v=1686768392&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/behind.webp"
             ]
         },
         {
             "id": 12,
-            "image": "https://timex.com/cdn/shop/products/TW2V44100.png?v=1686768585&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/Timex%20Standard%2040mm%20Fabric%20Strap%20Watch.webp",
             "name": "Timex Standard 40mm Fabric Strap Watch",
             "colors": [
                 {
                     "name": "Silver-Tone/Brown/Cream",
-                    "image": "https://timex.com/cdn/shop/products/TW2V44100.png?v=1686768585&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/Timex%20Standard%2040mm%20Fabric%20Strap%20Watch.webp"
                 },
                 {
                     "name": "Silver-Tone/Black/Green",
-                    "image": "https://timex.com/cdn/shop/products/TW2V44200.png?v=1686768416&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/Black_Silver-Tone_Green.webp"
                 },
                 {
                     "name": "Silver-Tone/Black/Black",
-                    "image": "https://timex.com/cdn/shop/products/TW2V44000.png?v=1689841392&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/Black_Silver-Tone_Black.webp"
                 }
             ],
             "price": 89.00,
@@ -549,25 +549,24 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2V44100.png?v=1686768585&width=900",
-                "https://timex.com/cdn/shop/products/TW2V44100_B.png?v=1686768587&width=640",
-                "https://timex.com/cdn/shop/products/TW2V44100_C.png?v=1686768589&width=640",
-                "https://timex.com/cdn/shop/products/TW2V44100_D.png?v=1686768591&width=640",
-                "https://timex.com/cdn/shop/products/TW2V44100_I.png?v=1686768595&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/behind.webp"
             ]
         },
         {
             "id": 13,
-            "image": "https://timex.com/cdn/shop/products/TW2U89700.png?v=1686768244&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/Timex%20Standard%2040mm%20Fabric%20and%20Leather%20Strap%20Watch.webp",
             "name": "Timex Standard 40mm Fabric and Leather Strap Watch",
             "colors": [
                 {
                     "name": "Gunmetal/Green/Green",
-                    "image": "https://timex.com/cdn/shop/products/TW2U89700.png?v=1686768244&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/Timex%20Standard%2040mm%20Fabric%20and%20Leather%20Strap%20Watch.webp"
                 },
                 {
                     "name": "Silver-Tone/Brown/Black",
-                    "image": "https://timex.com/cdn/shop/products/TW2U89600.png?v=1686768243&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/Brown_Silver-Tone_Black.webp"
                 }
             ],
             "price": 89.00,
@@ -596,21 +595,20 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2U89700.png?v=1686768244&width=900",
-                "https://timex.com/cdn/shop/products/TW2U89700_B.png?v=1686768246&width=640",
-                "https://timex.com/cdn/shop/products/TW2U89700_C.png?v=1686768247&width=640",
-                "https://timex.com/cdn/shop/products/TW2U89700_D.png?v=1686768249&width=640",
-                "https://timex.com/cdn/shop/products/TW2U89700_E.png?v=1686768251&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/behind.webp"
             ]
         },
         {
             "id": 14,
-            "image": "https://timex.com/cdn/shop/products/TW2V56800.png?v=1686768082&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/Timex%20UFC%20Debut%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Debut 42mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
                     "name": "Black/Black/Black",
-                    "image": "https://timex.com/cdn/shop/products/TW2V56800.png?v=1686768082&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/Timex%20UFC%20Debut%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 }
             ],
             "price": 100.00,
@@ -638,21 +636,24 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2V56800.png?v=1686768082&width=900",
-                "https://timex.com/cdn/shop/products/TW2V56800_B_449f1981-16af-4a1d-8f68-1dd73a18b651.png?v=1686768084&width=640",
-                "https://timex.com/cdn/shop/products/TW2V56800_C_5a09117c-47e2-498b-a92b-1e3c276b12d3.png?v=1686768086&width=640",
-                "https://timex.com/cdn/shop/products/TW2V56800_D.png?v=1686768088&width=640",
-                "https://timex.com/cdn/shop/products/TW2V56800_I.png?v=1686768091&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/behind.webp"
             ]
         },
         {
             "id": 15,
-            "image": "https://timex.com/cdn/shop/products/T49631.png?v=1686768065&width=900",
-            "name": "Expedition Metal Tech 40mm Leather Strap Watch",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/Expedition%20North%20Tide-Temp-Compass%2045mm%20Silicone%20Strap%20Watch.webp",
+            "name": "Expedition North® Tide-Temp-Compass 45mm Silicone Strap Watch",
             "colors": [
                 {
-                    "name": "Silver-Tone/Brown/Black",
-                    "image": "https://timex.com/cdn/shop/products/T49631.png?v=1686768065&width=900"
+                    "name": "Blue/Stainless Steel",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/Expedition%20North%20Tide-Temp-Compass%2045mm%20Silicone%20Strap%20Watch.webp"
+                },
+                {
+                    "name": "Green/Stainless Steel",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/Green_Stainless%20Steel.webp"
                 }
             ],
             "price": 62.00,
@@ -662,7 +663,7 @@
             "rate": 5,
             "description": "The TIMEX UFC Debut might nod to the life of luxury, but it doesn't skimp on resilience and grit. Featuring a modestly sized 42mm stainless-steel case and bracelet, this rugged analog three-hand watch reps our authenticity with pride, depicted by the dual branding on its striking black sunray dial. Luminous hands and dial markers allow for anytime readability, while immensely practical features like a 12 hour bezel and 50m of water resistance have earned the Debut its well-deserved place among the ranks of the TIMEX UFC collection.",
             "specification": {
-                "Product": "T49631",
+                "Product": "TW2V22100",
                 "Attachment Color": "Brown",
                 "Band Material": "Leather",
                 "Buckle/Clasp": "Buckle",
@@ -681,7 +682,10 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/T49631.png?v=1686768065&width=900"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/behind.webp"
             ]
         },
         {
