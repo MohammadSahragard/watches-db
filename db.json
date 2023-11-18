@@ -88,16 +88,16 @@
         },
         {
             "id": 3,
-            "image": "https://timex.com/cdn/shop/files/TW2V84500.png?v=1694545081&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/Timex%20UFC%20Colossus%2045mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Colossus 45mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
                     "name": "Gold-Tone",
-                    "image": "https://timex.com/cdn/shop/files/TW2V84500.png?v=1694545081&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/Timex%20UFC%20Colossus%2045mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 },
                 {
                     "name": "Silver-Tone",
-                    "image": "https://timex.com/cdn/shop/products/TW2V84700.png?v=1697726292&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/Silver-Tone_Silver-Tone_Silver-Tone_Silver-Tone.webp"
                 }
             ],
             "price": 319.00,
@@ -124,29 +124,28 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/files/TW2V84500.png?v=1694545081&width=640",
-                "https://timex.com/cdn/shop/files/TW2V84500_B.png?v=1694545086&width=640",
-                "https://timex.com/cdn/shop/files/TW2V84500_C.png?v=1694545086&width=640",
-                "https://timex.com/cdn/shop/files/TW2V84500_D.png?v=1694545086&width=640",
-                "https://timex.com/cdn/shop/files/TW2V84500_X.jpg?v=1694545086&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/behind.webp"
             ]
         },
         {
             "id": 4,
-            "image": "https://timex.com/cdn/shop/products/TW4B14200.png?v=1684174145&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/Expedition%20Scout%2040mm%20Fabric%20Strap%20Watch.webp",
             "name": "Expedition Scout 40mm Fabric Strap Watch",
             "colors": [
                 {
                     "name": "Black/Black/Black",
-                    "image": "https://timex.com/cdn/shop/products/TW4B14200.png?v=1684174145&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/Expedition%20Scout%2040mm%20Fabric%20Strap%20Watch.webp"
                 },
                 {
                     "name": "Titanium/Blue/Blue",
-                    "image": "https://timex.com/cdn/shop/products/TW4B14100.png?v=1684174140&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/Blue_Titanium_Blue.webp"
                 },
                 {
                     "name": "Titanium/Green/Green",
-                    "image": "https://timex.com/cdn/shop/products/TW4B14000.png?v=1684174144&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/Green_Titanium_Green.webp"
                 }
             ],
             "price": 60.00,
@@ -175,11 +174,9 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW4B14200.png?v=1684174145&width=640",
-                "https://timex.com/cdn/shop/products/TW4B14200_B.png?v=1684174146&width=640",
-                "https://timex.com/cdn/shop/products/TW4B14200_C.png?v=1684174148&width=640",
-                "https://timex.com/cdn/shop/products/TW4B14100.png?v=1684174140&width=640",
-                "https://timex.com/cdn/shop/products/TW4B14000.png?v=1684174144&width=900"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/side_green.webp"
             ]
         },
         {
