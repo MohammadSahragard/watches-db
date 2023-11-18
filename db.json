@@ -274,16 +274,16 @@
                     "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Q%20Timex%20Reissue%2038mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 },
                 {
-                    "name": "Stainless Steel/Stainless Steel/Blue",
-                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Stainless%20Steel_Stainless%20Stee_Blue_Blue.webp"
-                },
-                {
                     "name": "Gold-Tone/Gold-Tone/Blue/Blue",
                     "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Gold-Tone_Gold-Tone_Blue_Blue.webp"
                 },
                 {
                     "name": "Black/Black/Black/Black",
                     "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Black_Black_Black_Black.webp"
+                },
+                {
+                    "name": "Stainless Steel/Stainless Steel/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Stainless%20Steel_Stainless%20Stee_Blue_Blue.webp"
                 }
             ],
             "price": 189.00,
