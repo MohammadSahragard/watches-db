@@ -181,12 +181,12 @@
         },
         {
             "id": 5,
-            "image": "https://timex.com/cdn/shop/products/TW2V90100.png?v=1694616660&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V90100/Timex%20UFC%20Pro%2030th%20Anniversary%2045mm%20Silicone%20Strap%20Watch.webp",
             "name": "Timex UFC Pro 30th Anniversary 45mm Silicone Strap Watch",
             "colors": [
                 {
                     "name": "Green/Gold-Tone/Green/Gold-Tone",
-                    "image": "https://timex.com/cdn/shop/products/TW2V90100.png?v=1694616660&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V90100/Timex%20UFC%20Pro%2030th%20Anniversary%2045mm%20Silicone%20Strap%20Watch.webp"
                 }
             ],
             "price": 265.00,
@@ -214,25 +214,24 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2V90100.png?v=1694616660&width=900",
-                "https://timex.com/cdn/shop/products/TW2V90100_B.png?v=1694616660&width=640",
-                "https://timex.com/cdn/shop/products/TW2V90100_C.png?v=1694616660&width=640",
-                "https://timex.com/cdn/shop/products/TW2V90100_D.png?v=1694616660&width=640",
-                "https://timex.com/cdn/shop/products/TW2V90100_E.png?v=1694616660&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V90100/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V90100/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V90100/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V90100/behind.webp"
             ]
         },
         {
             "id": 6,
-            "image": "https://timex.com/cdn/shop/products/TW2V84700.png?v=1697726292&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84700/Timex%20UFC%20Colossus%2045mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Colossus 45mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
                     "name": "Silver-Tone",
-                    "image": "https://timex.com/cdn/shop/products/TW2V84700.png?v=1697726292&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84700/Timex%20UFC%20Colossus%2045mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 },
                 {
                     "name": "Gold-Tone",
-                    "image": "https://timex.com/cdn/shop/files/TW2V84500.png?v=1694545081&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/Timex%20UFC%20Colossus%2045mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 }
             ],
             "price": 319.00,
@@ -259,29 +258,32 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2V84700.png?v=1697726292&width=900",
-                "https://timex.com/cdn/shop/files/TW2V84700_B.png?v=1694545126&width=640",
-                "https://timex.com/cdn/shop/files/TW2V84700_C.png?v=1694545126&width=640",
-                "https://timex.com/cdn/shop/files/TW2V84700_D.png?v=1694545126&width=640",
-                "https://timex.com/cdn/shop/files/TW2V84500.png?v=1694545081&width=900"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84700/behind.webp"
             ]
         },
         {
             "id": 7,
-            "image": "https://timex.com/cdn/shop/products/TW2U61700.png?v=1686768380&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Q%20Timex%20Reissue%2038mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Q Timex Reissue 38mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
                     "name": "Stainless Steel/Stainless Steel/Green",
-                    "image": "https://timex.com/cdn/shop/products/TW2U61700.png?v=1686768380&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Q%20Timex%20Reissue%2038mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 },
                 {
                     "name": "Stainless Steel/Stainless Steel/Blue",
-                    "image": "https://timex.com/cdn/shop/products/TW2T80700.png?v=1686768223&width=640"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Stainless%20Steel_Stainless%20Stee_Blue_Blue.webp"
                 },
                 {
-                    "name": "Stainless Steel/Stainless Steel/Black",
-                    "image": "https://timex.com/cdn/shop/products/TW2U61300.png?v=1684174183&width=900"
+                    "name": "Gold-Tone/Gold-Tone/Blue/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Gold-Tone_Gold-Tone_Blue_Blue.webp"
+                },
+                {
+                    "name": "Black/Black/Black/Black",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Black_Black_Black_Black.webp"
                 }
             ],
             "price": 189.00,
@@ -310,11 +312,10 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2U61700.png?v=1686768380&width=900",
-                "https://timex.com/cdn/shop/products/TW2U61700_B.png?v=1686768382&width=640",
-                "https://timex.com/cdn/shop/products/TW2U61700_C.png?v=1686768384&width=640",
-                "https://timex.com/cdn/shop/products/TW2U61700_D.png?v=1686768386&width=640",
-                "https://timex.com/cdn/shop/products/TW2U61700_E.png?v=1686768387&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/behind.webp"
             ]
         },
         {
