@@ -48,12 +48,12 @@
         },
         {
             "id": 2,
-            "image": "https://timex.com/cdn/shop/files/TW2V75100.png?v=1694543537&width=640",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V75100/Easy%20Reader%2035mm%20Eco-Friendly%20Vegan%20Leather%20Strap%20Watch.webp",
             "name": "Easy Reader 35mm Eco-Friendly Vegan Leather Strap Watch",
             "colors": [
                 {
                     "name": "Black",
-                    "image": "https://timex.com/cdn/shop/files/TW2V75100.png?v=1694543537&width=640"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V75100/Easy%20Reader%2035mm%20Eco-Friendly%20Vegan%20Leather%20Strap%20Watch.webp"
                 }
             ],
             "price": 58.00,
@@ -80,11 +80,10 @@
                 "Water Resistance": "30 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/files/TW2V75100.png?v=1694543537&width=640",
-                "https://timex.com/cdn/shop/files/TW2V75100_B.png?v=1694543536&width=640",
-                "https://timex.com/cdn/shop/files/TW2V75100_C.png?v=1694543537&width=640",
-                "https://timex.com/cdn/shop/files/TW2V75100_D.png?v=1694543537&width=640",
-                "https://timex.com/cdn/shop/files/TW2V75100_I.png?v=1694543537&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V75100/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V75100/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V75100/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V75100/behind.webp"
             ]
         },
         {
