@@ -2,12 +2,16 @@
     "watches": [
         {
             "id": 1,
-            "image": "https://timex.com/cdn/shop/products/T2H281.png?v=1686768065&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/Expedition%20North%20Titanium%20Automatic%2041mm%20Eco-Friendly%20Leather%20Strap%20Watch.webp",
             "name": "Expedition North Titanium Automatic 41mm Eco-Friendly Leather Strap Watch",
             "colors": [
                 {
                     "name": "Titanium/Black/Black",
-                    "image": "https://timex.com/cdn/shop/products/T2H281.png?v=1686768065&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/Expedition%20North%20Titanium%20Automatic%2041mm%20Eco-Friendly%20Leather%20Strap%20Watch.webp"
+                },
+                {
+                    "name": "Black/Gold-Tone/white",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/Black_Gold-Tone_white.webp"
                 }
             ],
             "price": 349.00,
@@ -36,11 +40,10 @@
                 "Water Resistance": "200 meters"
             },
             "other images": [
-                "https://timex.com/cdn/shop/products/TW2V54000.png?v=1687850526&width=640",
-                "https://timex.com/cdn/shop/products/TW2V54000_B_3fd86929-ca77-4391-9700-b29dfb7ec2f9.png?v=1687850526&width=640",
-                "https://timex.com/cdn/shop/products/TW2V54000_C.png?v=1687850526&width=640",
-                "https://timex.com/cdn/shop/products/TW2V54000_D_a9c6b10f-88b8-467b-a6ea-04b0882931f4.png?v=1687850526&width=640",
-                "https://timex.com/cdn/shop/products/TW2V54000_I.png?v=1687850526&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/behind.webp"
             ]
         },
         {
