@@ -2105,25 +2105,34 @@
     "sale": [
         {
             "id": 38,
-            "image": "https://timex.eu/cdn/shop/products/TW2U93900_27591600-8bc5-4057-bc18-dd90dd464442.png?v=1687309105&width=900",
-            "name": "Timex T80 34mm Stainless Steel Expansion Band Watch with Perfect Fit",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Timex%20T80%2034mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp",
+            "name": "Timex T80 34mm Stainless Steel Expansion Band Watch",
             "colors": [
                 {
-                    "name": "Purple",
-                    "image": "https://timex.eu/cdn/shop/products/TW2U93900_27591600-8bc5-4057-bc18-dd90dd464442.png?v=1687309105&width=900"
+                    "name": "Gold-Tone/Gold-Tone/Digital",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Timex%20T80%2034mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp"
+                },
+                {
+                    "name": "Black/Black/Digital",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Black_Black_Digital.webp"
+                },
+                {
+                    "name": "Stainless Steel/Silver-Tone/Digital",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Stainless%20Steel_Silver-Tone_Digital.webp"
                 }
             ],
-            "price": 48.00,
+            "price": 59.00,
             "weight": "34 mm",
             "category": "Women",
             "collection": "Timex T80",
             "rate": 5,
             "description": "Our T80 is a throwback to the decade that gave us big hair, big music, and big dreams. It also pays homage to our first digital watches, some of the first to hit the market. To honor those early hits, we're proudly reintroducing the T80 for a whole new generation – a watch that's both a stylish accessory and a serious timekeeping device. The fun, retro design in all-purple — which now features our Perfect Fit stainless-steel expansion band technology — packs a date display, stopwatch, and alarm into something that looks great no matter where you're going from here. Note: The circumference on our T80 expansion band watch is 183mm. Additional links can be easily removed to make the watch smaller for a look and fit you'll love.",
             "specification": {
-                "Product": "TW2U93900",
-                "Attachment Hardware Color": "Purple",
+                "Product": "TW2R79000",
+                "Attachment Color": "Gold-Tone",
                 "Band Material": "Stainless Steel",
-                "Case Color": "Purple",
+                "Buckle/Clasp": "N/A",
+                "Case Color": "Gold-Tone",
                 "Case Diameter": "34 mm",
                 "Case Finish": "Polished",
                 "Case Height": "10 mm",
@@ -2134,25 +2143,24 @@
                 "Dial Color": "Digital",
                 "Dial Markings": "Digital",
                 "Strap and Lug Width": "18 mm",
-                "Watch Movement": "Quartz Digital",
+                "Watch Movement": "555",
                 "Water Resistance": "30 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2U93900_27591600-8bc5-4057-bc18-dd90dd464442.png?v=1687309105&width=900",
-                "https://timex.eu/cdn/shop/products/TW2U93900_B.png?v=1687309105&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U93900_C.png?v=1687309105&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U93900_D.png?v=1687309105&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U93900_I.png?v=1687309105&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/behind.webp"
             ]
         },
         {
             "id": 39,
-            "image": "https://timex.eu/cdn/shop/products/TW2U90900_a15a0e6a-4df8-424f-875c-bb8964d5cd5e.png?v=1687313214&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/Waterbury%20Traditional%20Chronograph%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Waterbury Traditional Chronograph 42mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
-                    "name": "Purple",
-                    "image": "https://timex.eu/cdn/shop/products/TW2U90900_a15a0e6a-4df8-424f-875c-bb8964d5cd5e.png?v=1687313214&width=900"
+                    "name": "Stainless Steel/Stainless Steel/Blue/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/Waterbury%20Traditional%20Chronograph%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 }
             ],
             "price": 125.99,
@@ -2181,21 +2189,20 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2U90900_a15a0e6a-4df8-424f-875c-bb8964d5cd5e.png?v=1687313214&width=900",
-                "https://timex.eu/cdn/shop/products/TW2U90900_B.png?v=1687313214&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U90900_C.png?v=1687313214&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U90900_D.png?v=1687313214&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U90900_E.png?v=1687313214&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/behind.webp"
             ]
         },
         {
             "id": 40,
-            "image": "https://timex.eu/cdn/shop/products/TW2U90700_d3918f6e-ecf9-4c99-b27c-181b2320eb0a.png?v=1687313255&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/Waterbury%20Traditional%20Chronograph%2042mm%20Leather%20Strap%20Watch.webp",
             "name": "Waterbury Traditional Chronograph 42mm Leather Strap Watch",
             "colors": [
                 {
-                    "name": "Purple",
-                    "image": "https://timex.eu/cdn/shop/products/TW2U90700_d3918f6e-ecf9-4c99-b27c-181b2320eb0a.png?v=1687313255&width=900"
+                    "name": "Tan/Stainless Steel/Green/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/Waterbury%20Traditional%20Chronograph%2042mm%20Leather%20Strap%20Watch.webp"
                 }
             ],
             "price": 110.99,
@@ -2224,21 +2231,20 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2U90700_d3918f6e-ecf9-4c99-b27c-181b2320eb0a.png?v=1687313255&width=900",
-                "https://timex.eu/cdn/shop/products/TW2U90700_B.png?v=1687313255&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U90700_C.png?v=1687313255&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U90700_D.png?v=1687313255&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U90700_E.png?v=1687313255&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/behind.webp"
             ]
         },
         {
             "id": 41,
-            "image": "https://timex.eu/cdn/shop/products/TW2U55700_23a07736-1789-4bc8-8cfe-2abece37d159.png?v=1687307994&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/Navi%20XL%2041mm%20Synthetic%20Rubber%20Strap%20Watch.webp",
             "name": "Navi XL 41mm Synthetic Rubber Strap Watch",
             "colors": [
                 {
                     "name": "Stainless Steel/Black/Blue",
-                    "image": "https://timex.eu/cdn/shop/products/TW2U55700_23a07736-1789-4bc8-8cfe-2abece37d159.png?v=1687307994&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/Navi%20XL%2041mm%20Synthetic%20Rubber%20Strap%20Watch.webp"
                 }
             ],
             "price": 90.99,
@@ -2267,25 +2273,24 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2U55700_23a07736-1789-4bc8-8cfe-2abece37d159.png?v=1687307994&width=900",
-                "https://timex.eu/cdn/shop/products/TW2U55700_B.png?v=1687307994&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U55700_C.png?v=1687307994&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U55700_D.png?v=1687307994&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U55700_E.png?v=1687307994&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/behind.webp"
             ]
         },
         {
             "id": 42,
-            "image": "https://timex.eu/cdn/shop/products/TW2V53500_2178d814-2b7d-4371-bf16-195cd59d1960.png?v=1687316049&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/Q%20Timex%20Celestial%2036mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp",
             "name": "Q Timex Celestial 36mm Stainless Steel Expansion Band Watch",
             "colors": [
                 {
                     "name": "Blue/Blue/Blue",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V53500_2178d814-2b7d-4371-bf16-195cd59d1960.png?v=1687316049&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/Q%20Timex%20Celestial%2036mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp"
                 },
                 {
                     "name": "Gold-Tone/Gold-Tone/Blue",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V53600_aadffcb3-2514-4153-82d0-1ece448c5b45.png?v=1687316068&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/Gold-Tone_Gold-Tone_Blue_Blue.webp"
                 }
             ],
             "price": 132.99,
@@ -2314,11 +2319,10 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2V53500_2178d814-2b7d-4371-bf16-195cd59d1960.png?v=1687316049&width=900",
-                "https://timex.eu/cdn/shop/products/TW2V53500_B.png?v=1687316049&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V53500_C.png?v=1687316049&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V53500_D.png?v=1687316049&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V53500_I.png?v=1687316049&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/behind.webp"
             ]
         },
         {
@@ -2366,12 +2370,12 @@
         },
         {
             "id": 44,
-            "image": "https://timex.eu/cdn/shop/products/TW2T74300_0d39151e-9b17-43d8-91c2-e4cb59c2e75c.png?v=1687311763&width=900",
-            "name": "Transcend™ Multifunction 38mm Leather Strap Watch",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/Timex%20Standard%20Tachymeter%20Chronograph%2043mm%20Eco-Friendly%20Resin%20Strap%20Watch.webp",
+            "name": "Timex Standard Tachymeter Chronograph 43mm Eco-Friendly Resin Strap Watch",
             "colors": [
                 {
-                    "name": "Rose Gold-Tone/Pink/White",
-                    "image": "https://timex.eu/cdn/shop/products/TW2T74300_0d39151e-9b17-43d8-91c2-e4cb59c2e75c.png?v=1687311763&width=900"
+                    "name": "Black/Black/Black/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/Timex%20Standard%20Tachymeter%20Chronograph%2043mm%20Eco-Friendly%20Resin%20Strap%20Watch.webp"
                 }
             ],
             "price": 68.99,
@@ -2381,40 +2385,39 @@
             "rate": 4,
             "description": "With an elegant white multifunction dial and a pink leather strap, this ultra-thin rose gold-tone stainless steel watch case offers a touch of simplicity and sophistication to your look. You will always be a step ahead with our Transcend collection.",
             "specification": {
-                "Product": "TW2T74300",
-                "Attachment Hardware Color": "Pink",
-                "Band Material": "Leather",
+                "Product": "TW2V71900",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "eco-conscious material",
                 "Buckle/Clasp": "Buckle",
-                "Case Color": "Rose Gold-Tone",
-                "Case Diameter": "38 mm",
-                "Case Finish": "Polished",
-                "Case Height": "6.5 mm",
+                "Case Color": "Black",
+                "Case Diameter": "43 mm",
+                "Case Finish": "Beadblasted",
+                "Case Height": "12 mm",
                 "Case Material": "Low Lead Brass",
                 "Case Shape": "Round",
                 "Case Size": "Full Size",
                 "Crystal Lens": "Mineral Glass",
-                "Dial Color": "White",
-                "Dial Markings": "Markers (Partial)",
-                "Strap and Lug Width": "18 mm",
-                "Watch Movement": "Quartz Digital",
-                "Water Resistance": "50 meters"
+                "Dial Color": "Black",
+                "Dial Markings": "Arabic (Partial)",
+                "Strap and Lug Width": "22 mm",
+                "Watch Movement": "08W",
+                "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2T74300_0d39151e-9b17-43d8-91c2-e4cb59c2e75c.png?v=1687311763&width=900",
-                "https://timex.eu/cdn/shop/products/TW2T74300_B.png?v=1687311763&width=640",
-                "https://timex.eu/cdn/shop/products/TW2T74300_C.png?v=1687311763&width=640",
-                "https://timex.eu/cdn/shop/products/TW2T74300_D.png?v=1687311763&width=640",
-                "https://timex.eu/cdn/shop/products/TW2T74300_I.png?v=1687311763&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/behind.webp"
             ]
         },
         {
             "id": 45,
-            "image": "https://timex.eu/cdn/shop/products/TW2U98400_6f0a6aaf-67d3-4b5c-9d46-c4ffa50e86f7.png?v=1687312511&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/Timex%20Standard%2034mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex Standard 34mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
-                    "name": "White/Gold",
-                    "image": "https://timex.eu/cdn/shop/products/TW2U98400_6f0a6aaf-67d3-4b5c-9d46-c4ffa50e86f7.png?v=1687312511&width=900"
+                    "name": "Two-Tone/Silver-Tone/Mother of Pearl/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/Timex%20Standard%2034mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 }
             ],
             "price": 90.99,
@@ -2443,21 +2446,20 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2U98400_6f0a6aaf-67d3-4b5c-9d46-c4ffa50e86f7.png?v=1687312511&width=900",
-                "https://timex.eu/cdn/shop/products/TW2U98400_B.png?v=1687312511&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U98400_C.png?v=1687312511&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U98400_D.png?v=1687312511&width=640",
-                "https://timex.eu/cdn/shop/products/TW2U98400_I.png?v=1687312511&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/behind.webp"
             ]
         },
         {
             "id": 46,
-            "image": "https://timex.eu/cdn/shop/products/TW2U41200_88d31629-afde-4b3c-949d-9f21a1efa518.png?v=1687310457&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U41200/Celestial%20Opulence%2038mm%20Leather%20Strap%20Watch.webp",
             "name": "Celestial Opulence 38mm Leather Strap Watch",
             "colors": [
                 {
                     "name": "Black/Gold",
-                    "image": "https://timex.eu/cdn/shop/products/TW2U41200_88d31629-afde-4b3c-949d-9f21a1efa518.png?v=1687310457&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U41200/Celestial%20Opulence%2038mm%20Leather%20Strap%20Watch.webp"
                 }
             ],
             "price": 69.99,
@@ -2485,9 +2487,7 @@
                 "Watch Movement": "Quartz Analog",
                 "Water Resistance": "50 meters"
             },
-            "other images": [
-                "https://timex.eu/cdn/shop/products/TW2U41200_88d31629-afde-4b3c-949d-9f21a1efa518.png?v=1687310457&width=900"
-            ]
+            "other images": []
         }
     ],
     "collections": [
@@ -2512,7 +2512,7 @@
         {
             "id": 1,
             "productId": 32,
-            "image": "https://timex.com/cdn/shop/products/TW2V91900.png?v=1697482755&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Harborside%20Coast%2043mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Harborside Coast 43mm Stainless Steel Bracelet Watch",
             "price": 119.00,
             "rate": 4,
@@ -2521,8 +2521,8 @@
         {
             "id": 2,
             "productId": 15,
-            "image": "https://timex.com/cdn/shop/products/T49631.png?v=1686768065&width=900",
-            "name": "Expedition Metal Tech 40mm Leather Strap Watch",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/Expedition%20North%20Tide-Temp-Compass%2045mm%20Silicone%20Strap%20Watch.webp",
+            "name": "Expedition North® Tide-Temp-Compass 45mm Silicone Strap Watch",
             "price": 62.00,
             "rate": 5,
             "quantity": 1
