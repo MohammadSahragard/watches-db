@@ -1,7 +1,7 @@
 {
     "watches": [
         {
-            "id": 1,
+            "id": "TW2V54000",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/Expedition%20North%20Titanium%20Automatic%2041mm%20Eco-Friendly%20Leather%20Strap%20Watch.webp",
             "name": "Expedition North Titanium Automatic 41mm Eco-Friendly Leather Strap Watch",
             "colors": [
@@ -47,7 +47,7 @@
             ]
         },
         {
-            "id": 2,
+            "id": "TW2V75100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V75100/Easy%20Reader%2035mm%20Eco-Friendly%20Vegan%20Leather%20Strap%20Watch.webp",
             "name": "Easy Reader 35mm Eco-Friendly Vegan Leather Strap Watch",
             "colors": [
@@ -87,7 +87,7 @@
             ]
         },
         {
-            "id": 3,
+            "id": "TW2V84500",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84500/Timex%20UFC%20Colossus%2045mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Colossus 45mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -131,7 +131,7 @@
             ]
         },
         {
-            "id": 4,
+            "id": "TW4B14200",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW4B14200/Expedition%20Scout%2040mm%20Fabric%20Strap%20Watch.webp",
             "name": "Expedition Scout 40mm Fabric Strap Watch",
             "colors": [
@@ -180,7 +180,7 @@
             ]
         },
         {
-            "id": 5,
+            "id": "TW2V90100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V90100/Timex%20UFC%20Pro%2030th%20Anniversary%2045mm%20Silicone%20Strap%20Watch.webp",
             "name": "Timex UFC Pro 30th Anniversary 45mm Silicone Strap Watch",
             "colors": [
@@ -221,7 +221,7 @@
             ]
         },
         {
-            "id": 6,
+            "id": "TW2V84700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V84700/Timex%20UFC%20Colossus%2045mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Colossus 45mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -265,7 +265,7 @@
             ]
         },
         {
-            "id": 7,
+            "id": "TW2U61700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Q%20Timex%20Reissue%2038mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Q Timex Reissue 38mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -319,7 +319,7 @@
             ]
         },
         {
-            "id": 8,
+            "id": "TW2V40100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V40100/Easy%20Reader%2038mm%20Stainless%20Steel%20Expansion%20Band%20Watch%20with%20Perfect%20Fit.webp",
             "name": "Easy Reader 38mm Stainless Steel Expansion Band Watch with Perfect Fit",
             "colors": [
@@ -364,7 +364,7 @@
             ]
         },
         {
-            "id": 9,
+            "id": "TW2V85400",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V85400/Timex%20UFC%20Reveal%2041mm%20Silicone%20Backed%20Leather%20Strap%20Watch.webp",
             "name": "Timex UFC Reveal 41mm Silicone Backed Leather Strap Watch",
             "colors": [
@@ -408,7 +408,7 @@
             ]
         },
         {
-            "id": 10,
+            "id": "TW2V36200",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V36200/Modern%20Easy%20Reader%2032mm%20Leather%20Strap%20Watch.webp",
             "name": "Modern Easy Reader® 32mm Leather Strap Watch",
             "colors": [
@@ -456,7 +456,7 @@
             ]
         },
         {
-            "id": 11,
+            "id": "TW2U88300",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U88200/Waterbury%20Classic%20Chronograph%2040mm%20Leather%20Strap%20Watch.webp",
             "name": "Waterbury Classic Chronograph 40mm Leather Strap Watch",
             "colors": [
@@ -506,7 +506,7 @@
             ]
         },
         {
-            "id": 12,
+            "id": "TW2V44100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V44100/Timex%20Standard%2040mm%20Fabric%20Strap%20Watch.webp",
             "name": "Timex Standard 40mm Fabric Strap Watch",
             "colors": [
@@ -556,7 +556,7 @@
             ]
         },
         {
-            "id": 13,
+            "id": "TW2U89700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/Timex%20Standard%2040mm%20Fabric%20and%20Leather%20Strap%20Watch.webp",
             "name": "Timex Standard 40mm Fabric and Leather Strap Watch",
             "colors": [
@@ -602,7 +602,7 @@
             ]
         },
         {
-            "id": 14,
+            "id": "TW2V56800",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/Timex%20UFC%20Debut%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Debut 42mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -643,7 +643,7 @@
             ]
         },
         {
-            "id": 15,
+            "id": "TW2V22100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/Expedition%20North%20Tide-Temp-Compass%2045mm%20Silicone%20Strap%20Watch.webp",
             "name": "Expedition North® Tide-Temp-Compass 45mm Silicone Strap Watch",
             "colors": [
@@ -689,7 +689,7 @@
             ]
         },
         {
-            "id": 16,
+            "id": "TW2V72900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/Timex%20x%20Jacquie%20Aiche%2036mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex x Jacquie Aiche 36mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -739,7 +739,7 @@
             ]
         },
         {
-            "id": 17,
+            "id": "TW2V72900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V52800/Timex%20Transcend%20x%20BCRF%2031mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex Transcend x BCRF 31mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -781,7 +781,7 @@
             ]
         },
         {
-            "id": 18,
+            "id": "TW2W10900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W10900/Kaia%2040mm%20Leather%20Strap%20Watch.webp",
             "name": "Kaia 40mm Leather Strap Watch",
             "colors": [
@@ -822,7 +822,7 @@
             ]
         },
         {
-            "id": 19,
+            "id": "TW2V52300",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V52300/Transcend%2034mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Transcend 34mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -872,7 +872,7 @@
             ]
         },
         {
-            "id": 20,
+            "id": "TW2W12700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W12700/Giorgio%20Galli%20S2%20Automatic%2038mm.webp",
             "name": "Giorgio Galli S2 Automatic 38mm",
             "colors": [
@@ -914,7 +914,7 @@
             ]
         },
         {
-            "id": 21,
+            "id": "TW2W15700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15900/Modern%20Easy%20Reader%2032mm%20Leather%20Strap%20Watch.webp",
             "name": "Modern Easy Reader 32mm Leather Strap Watch",
             "colors": [
@@ -958,7 +958,7 @@
             ]
         },
         {
-            "id": 22,
+            "id": "TW2V73000",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V73000/Timex%20Legacy%20x%20Jacquie%20Aiche%20Malachite%20Tribe%20Eye%2036mm%20Watch.webp",
             "name": "Timex Legacy x Jacquie Aiche Malachite Tribe Eye 36mm Watch",
             "colors": [
@@ -1004,7 +1004,7 @@
             ]
         },
         {
-            "id": 23,
+            "id": "TW2V83100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V83100/Timex%20UFC%20Jewel%2036mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Jewel 36mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -1046,7 +1046,7 @@
             ]
         },
         {
-            "id": 24,
+            "id": "TW2U97600",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U97600/Waterbury%20Traditional%2034mm%20Leather%20Strap%20Watch.webp",
             "name": "Waterbury Traditional 34mm Leather Strap Watch",
             "colors": [
@@ -1092,7 +1092,7 @@
             ]
         },
         {
-            "id": 25,
+            "id": "TW2U81600",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U81600/Q%20Timex%20Malibu%2036mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp",
             "name": "Q Timex Malibu 36mm Stainless Steel Expansion Band Watch",
             "colors": [
@@ -1145,7 +1145,7 @@
             ]
         },
         {
-            "id": 26,
+            "id": "TW2V52600",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V52600/Timex%20Legacy%20Boyfriend%20x%20BCRF%2036mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex Legacy Boyfriend x BCRF 36mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -1187,7 +1187,7 @@
             ]
         },
         {
-            "id": 27,
+            "id": "TW2V77800",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V77800/Timex%20Weekender%20x%20Peanuts%20In%20Bloom%2038mm%20Fabric%20Strap%20Watch.webp",
             "name": "Timex Weekender X Peanuts In Bloom 38mm Fabric Strap Watch",
             "colors": [
@@ -1236,7 +1236,7 @@
             ]
         },
         {
-            "id": 28,
+            "id": "TW2W54100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W54100/Timex%20x%20Worn%20&%20Wound%2037mm%20Stainless%20Steel%20Mesh%20Bracelet%20Watch.webp",
             "name": "Timex x Worn & Wound 37mm Stainless Steel Mesh Bracelet Watch",
             "colors": [
@@ -1281,7 +1281,7 @@
             ]
         },
         {
-            "id": 29,
+            "id": "TW2U96700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U96700/Marlin%20Hand-Wound%20California%20Dial%2034mm%20Leather%20Strap%20Watch.webp",
             "name": "Marlin Hand-Wound California Dial 34mm Leather Strap Watch",
             "colors": [
@@ -1322,7 +1322,7 @@
             ]
         },
         {
-            "id": 30,
+            "id": "TW2V33100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V33100/Legacy%20Ocean%2037mm%20Recycled%20Plastic%20Bracelet%20Watch.webp",
             "name": "Legacy Ocean 37mm Recycled Plastic Bracelet Watch",
             "colors": [
@@ -1375,7 +1375,7 @@
             ]
         },
         {
-            "id": 47,
+            "id": "TW7C25500",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW7C25500/TIMEX%20TIME%20MACHINES%2029mm%20Rainbow%20Unicorn%20Pink%20Elastic%20Fabric%20Kids%20Watch.webp",
             "name": "TIMEX TIME MACHINES 29mm Rainbow Unicorn Pink Elastic Fabric Kids Watch",
             "colors": [
@@ -1415,7 +1415,7 @@
             ]
         },
         {
-            "id": 48,
+            "id": "TW7C25600",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW7C25600/TIMEX%20TIME%20MACHINES%2029mm%20Rainbow%20Unicorn%20Teal%20Elastic%20Fabric%20Kids%20Watch.webp",
             "name": "TIMEX TIME MACHINES 29mm Rainbow Unicorn Teal Elastic Fabric Kids Watch",
             "colors": [
@@ -1455,7 +1455,7 @@
             ]
         },
         {
-            "id": 49,
+            "id": "TW7C77500",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW7C77500/TIMEX%20TIME%20MACHINES%2035mm%20GreenBrown%20Camo%20Fast%20Wrap%20Kids%20Digital%20Watch.webp",
             "name": "TIMEX TIME MACHINES® 35mm Green/Brown Camo Fast Wrap® Kids Digital Watch",
             "colors": [
@@ -1497,7 +1497,7 @@
             ]
         },
         {
-            "id": 50,
+            "id": "T7B151",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/T7B151/TIMEX%20TIME%20MACHINES%2029mm%20Pink%20Ballerina%20Elastic%20Fabric%20Kids%20Watch.webp",
             "name": "TIMEX TIME MACHINES 29mm Pink Ballerina Elastic Fabric Kids Watch",
             "colors": [
@@ -1533,7 +1533,7 @@
             "other images": []
         },
         {
-            "id": 51,
+            "id": "TW7C16500",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW7C16500/TIMEX%20TIME%20MACHINES%2029mm%20Blue%20Soccer%20Elastic%20Fabric%20Kids%20Watch.webp",
             "name": "TIMEX TIME MACHINES 29mm Blue Soccer Elastic Fabric Kids Watch",
             "colors": [
@@ -1579,7 +1579,7 @@
             ]
         },
         {
-            "id": 52,
+            "id": "TW7C12200",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW7C12200/Kids%20Analog%2032mm%20Fabric%20Strap%20Watch.webp",
             "name": "Kids Analog 32mm Fabric Strap Watch",
             "colors": [
@@ -1619,7 +1619,7 @@
             ]
         },
         {
-            "id": 54,
+            "id": "T89001",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/T89001/TIMEX%20TIME%20MACHINES%2029mm%20Butterflies%20and%20Hearts%20Blue%20Elastic%20Fabric%20Kids%20Watch.webp",
             "name": "TIMEX TIME MACHINES 29mm Butterflies and Hearts Blue Elastic Fabric Kids Watch",
             "colors": [
@@ -1659,7 +1659,7 @@
             "other images": []
         },
         {
-            "id": 55,
+            "id": "TW2W24700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W24700/Timex%20x%20Peanuts%20Holiday%2034mm%20Fabric%20Strap%20Watch.webp",
             "name": "Timex x Peanuts Holiday 34mm Fabric Strap Watch",
             "colors": [
@@ -1700,7 +1700,7 @@
             ]
         },
         {
-            "id": 56,
+            "id": "TW7C77100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW7C77100/TIMEX%20TIME%20MACHINES%2029mm%20Pink%20Panda%20Elastic%20Fabric%20Kids%20Watch.webp",
             "name": "TIMEX TIME MACHINES 29mm Pink Panda Elastic Fabric Kids Watch",
             "colors": [
@@ -1746,7 +1746,7 @@
             ]
         },
         {
-            "id": 57,
+            "id": "T78141",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/T78141/TIMEX%20TIME%20MACHINES%2029mm%20Green%20Camo%20Elastic%20Fabric%20Kids%20Watch.webp",
             "name": "TIMEX TIME MACHINES 29mm Green Camo Elastic Fabric Kids Watch",
             "colors": [
@@ -1784,7 +1784,7 @@
     ],
     "trending": [
         {
-            "id": 31,
+            "id": "TW2V72900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/Timex%20x%20Jacquie%20Aiche%2036mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex x Jacquie Aiche 36mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -1834,7 +1834,7 @@
             ]
         },
         {
-            "id": 32,
+            "id": "TW2V91900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Harborside%20Coast%2043mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Harborside Coast 43mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -1882,7 +1882,7 @@
             ]
         },
         {
-            "id": 33,
+            "id": "TW2V66100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/Expedition%20North%20Freedive%20Ocean%20",
             "name": "Expedition North Freedive Ocean #tide Fabric Strap Watch",
             "colors": [
@@ -1926,7 +1926,7 @@
             ]
         },
         {
-            "id": 34,
+            "id": "TW2W22000",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/Expedition%20North%20Slack%20Tide%2041mm%20",
             "name": "Expedition North Slack Tide 41mm #tide Fabric Strap Watch",
             "colors": [
@@ -1970,7 +1970,7 @@
             ]
         },
         {
-            "id": 35,
+            "id": "TW2V27300",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/Harborside%20Coast%2043mm%20Synthetic%20Rubber%20Strap%20Watch.webp",
             "name": "Harborside Coast 43mm Silicone Strap Watch",
             "colors": [
@@ -2016,7 +2016,7 @@
             ]
         },
         {
-            "id": 36,
+            "id": "TW2V96300",
             "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900",
             "name": "Expedition North® Field Chrono 43mm Recycled Mixed Materials Strap Watch",
             "colors": [
@@ -2062,7 +2062,7 @@
             ]
         },
         {
-            "id": 37,
+            "id": "TW2W14800",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/Waterbury%20Traditional%20Day%20Date%2039mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Waterbury Traditional Day Date 39mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -2104,7 +2104,7 @@
     ],
     "sale": [
         {
-            "id": 38,
+            "id": "TW2R79000",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Timex%20T80%2034mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp",
             "name": "Timex T80 34mm Stainless Steel Expansion Band Watch",
             "colors": [
@@ -2154,7 +2154,7 @@
             ]
         },
         {
-            "id": 39,
+            "id": "TW2U90900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/Waterbury%20Traditional%20Chronograph%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Waterbury Traditional Chronograph 42mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -2196,7 +2196,7 @@
             ]
         },
         {
-            "id": 40,
+            "id": "TW2U90700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/Waterbury%20Traditional%20Chronograph%2042mm%20Leather%20Strap%20Watch.webp",
             "name": "Waterbury Traditional Chronograph 42mm Leather Strap Watch",
             "colors": [
@@ -2238,7 +2238,7 @@
             ]
         },
         {
-            "id": 41,
+            "id": "TW2U55700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/Navi%20XL%2041mm%20Synthetic%20Rubber%20Strap%20Watch.webp",
             "name": "Navi XL 41mm Synthetic Rubber Strap Watch",
             "colors": [
@@ -2280,7 +2280,7 @@
             ]
         },
         {
-            "id": 42,
+            "id": "TW2V53500",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/Q%20Timex%20Celestial%2036mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp",
             "name": "Q Timex Celestial 36mm Stainless Steel Expansion Band Watch",
             "colors": [
@@ -2326,7 +2326,7 @@
             ]
         },
         {
-            "id": 43,
+            "id": "TW2T74500",
             "image": "https://timex.eu/cdn/shop/products/TW2T74500_b5239136-7246-4370-b9b8-5ce491b0addf.png?v=1687311747&width=900",
             "name": "Transcend™ Multifunction 38mm Stainless Steel Mesh Band Watch",
             "colors": [
@@ -2369,7 +2369,7 @@
             ]
         },
         {
-            "id": 44,
+            "id": "TW2V71900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/Timex%20Standard%20Tachymeter%20Chronograph%2043mm%20Eco-Friendly%20Resin%20Strap%20Watch.webp",
             "name": "Timex Standard Tachymeter Chronograph 43mm Eco-Friendly Resin Strap Watch",
             "colors": [
@@ -2411,7 +2411,7 @@
             ]
         },
         {
-            "id": 45,
+            "id": "TW2U98400",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/Timex%20Standard%2034mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex Standard 34mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -2453,7 +2453,7 @@
             ]
         },
         {
-            "id": 46,
+            "id": "TW2U41200",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U41200/Celestial%20Opulence%2038mm%20Leather%20Strap%20Watch.webp",
             "name": "Celestial Opulence 38mm Leather Strap Watch",
             "colors": [
