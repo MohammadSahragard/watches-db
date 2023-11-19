@@ -689,6 +689,106 @@
             ]
         },
         {
+            "id": "TW2W15000",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/Waterbury%20Classic%2040mm%20Leather%20Strap%20Watch.webp",
+            "name": "Waterbury Classic 40mm Leather Strap Watch",
+            "colors": [
+                {
+                    "name": "Black/Stainless Steel/White/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/Waterbury%20Classic%2040mm%20Leather%20Strap%20Watch.webp"
+                },
+                {
+                    "name": "Brown/Stainless Steel/Blue/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/Brown_Stainless%20Steel_Blue_N_A.webp"
+                },
+                {
+                    "name": "Black/Stainless Steel/White/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/Black_Stainless%20Steel_White_N_A.webp"
+                },
+                {
+                    "name": "Brown/Gunmetal/Blue/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/Brown_Gunmetal_Blue_N_A.webp"
+                }
+            ],
+            "price": 62.00,
+            "weight": "40 mm",
+            "category": "Men",
+            "collection": "Waterbury",
+            "rate": 5,
+            "description": "We've looked to our past, and we're paying homage to our original watch collection by using the Waterbury Watch Company logo on the dial and second hand, which bears the stylized W. Each watch displays our attention to craftsmanship and detail, with finely finished surfaces and careful applications of watchmaking ingenuity. Featuring a 40mm stainless-steel case; a light grey dial with Roman numerals; and a more casual black natural leather strap with quick release spring bars; our Waterbury Classic unites all of these elements into something that's right for your wrist today, and right for all the days to come.",
+            "specification": {
+                "Product": "TW2W15000",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "Leather",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Stainless Steel",
+                "Case Diameter": "40 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Height": "10 mm",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "White",
+                "Dial Markings": "Roman (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Watch Movement": "916",
+                "Water Resistance": "50 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W15000/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2V28600",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V28600/Waterbury%20Traditional%20Chronograph%2042mm%20Leather%20Strap%20Watch.webp",
+            "name": "Waterbury Traditional Chronograph 42mm Leather Strap Watch",
+            "colors": [
+                {
+                    "name": "Brown/Stainless Steel/Blue/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V28600/Waterbury%20Traditional%20Chronograph%2042mm%20Leather%20Strap%20Watch.webp"
+                },
+                {
+                    "name": "Tan/Stainless Steel/Black/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V28600/Tan_Stainless%20Steel_Black_N_A.webp"
+                }
+            ],
+            "price": 152.00,
+            "weight": "42 mm",
+            "category": "Men",
+            "collection": "Waterbury",
+            "rate": 4,
+            "description": "Meet the next generation of an ongoing classic. By tracing back to our beginnings in 1854 as the Waterbury Clock Company, we have found new ways to bring our legacy of craftsmanship and traditional watchmaking into the modern day. The Waterbury Traditional Chronograph is a heritage style, featuring nuanced finishing, stainless-steel construction, and ageless aesthetics. It offers a wearing experience that integrates old-world elements — like the W.W. Co logomark — in ways that could only come from the Timex of today.",
+            "specification": {
+                "Product": "TW2V28600",
+                "Attachment Hardware Color": "Brown",
+                "Band Material": "Leather",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Stainless Steel",
+                "Case Diameter": "42 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Height": "11.5 mm",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Blue",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "22 mm",
+                "Watch Movement": "927",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V28600/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V28600/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V28600/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V28600/behind.webp"
+            ]
+        },
+        {
             "id": "TW2V72900",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/Timex%20x%20Jacquie%20Aiche%2036mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex x Jacquie Aiche 36mm Stainless Steel Bracelet Watch",
@@ -795,7 +895,7 @@
             "category": "Women",
             "collection": "Crystal",
             "rate": 4,
-            "description": "Our Kaia Multi-function blends intricate detailing with a bit of shimmer and shine to get you looking polished and pulled together at a moment’s notice. Clear baguette crystal markers highlight the dial, which offers an elaborate look in a lustrous gold tone. Complete with a crocodile embossed natural leather strap and crystal encrusted bezel, it’s ready to take on whatever the day brings without ever dimming its shine.",
+            "description": "Our Kaia Multi-function blends intricate detailing with a bit of shimmer and shine to get you looking polished and pulled together at a moment's notice. Clear baguette crystal markers highlight the dial, which offers an elaborate look in a lustrous gold tone. Complete with a crocodile embossed natural leather strap and crystal encrusted bezel, it's ready to take on whatever the day brings without ever dimming its shine.",
             "specification": {
                 "Product": "TW2W10900",
                 "Attachment Color": "Black",
@@ -1389,7 +1489,7 @@
             "category": "Kids",
             "collection": "MACHINES",
             "rate": 5,
-            "description": "Made just for kids, our pink unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "description": "Made just for kids, our pink unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids' watches are covered by our 100% worry-free replacement plan so you don't worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
             "specification": {
                 "Product": "TW7C25500",
                 "Attachment Hardware Color": "Pink",
@@ -1429,7 +1529,7 @@
             "category": "Kids",
             "collection": "MACHINES",
             "rate": 5,
-            "description": "Made just for kids, our teal unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "description": "Made just for kids, our teal unicorn-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids' watches are covered by our 100% worry-free replacement plan so you don't worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
             "specification": {
                 "Product": "TW7C25600",
                 "Attachment Hardware Color": "Blue",
@@ -1469,7 +1569,7 @@
             "category": "Kids",
             "collection": "MACHINES",
             "rate": 4,
-            "description": "Made just for kids, our green camo digital watch features an easy-to-read display, fast wrap fabric strap, INDIGLO backlight and is 50 meter water resistant. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "description": "Made just for kids, our green camo digital watch features an easy-to-read display, fast wrap fabric strap, INDIGLO backlight and is 50 meter water resistant. Plus, all of our kids' watches are covered by our 100% worry-free replacement plan so you don't worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
             "specification": {
                 "Product": "TW7C77500",
                 "Attachment Hardware Color": "Green",
@@ -1551,7 +1651,7 @@
             "category": "Kids",
             "collection": "MACHINES",
             "rate": 3,
-            "description": "Made just for kids, our soccer-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "description": "Made just for kids, our soccer-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids' watches are covered by our 100% worry-free replacement plan so you don't worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
             "specification": {
                 "Product": "TW7C16500",
                 "Attachment Hardware Color": "Blue",
@@ -1593,7 +1693,7 @@
             "category": "Kids",
             "collection": "Analog",
             "rate": 5,
-            "description": "Our Time Machines™ collection offers watches just for kids that have easy-to-read dials, adjustable Fabric bands and are 30 meter water resistant. This unique purple space-dye athleisure design will match any child’s personality!",
+            "description": "Our Time Machines™ collection offers watches just for kids that have easy-to-read dials, adjustable Fabric bands and are 30 meter water resistant. This unique purple space-dye athleisure design will match any child's personality!",
             "specification": {
                 "Product": "TW7C12200",
                 "Attachment Hardware Color": "Purple",
@@ -1673,7 +1773,7 @@
             "category": "Kids",
             "collection": "X",
             "rate": 5,
-            "description": "With its 34mm case, our Timex Color Rush x Peanuts Holiday watch is just the right size for the little Peanuts fan in your life. It brings fun to the holiday season with a charming light teal blue fabric strap adorned with a winter white snowflake pattern and a matching dial showcasing Snoopy’s doghouse all decked out with lights. Plus, it’s an adorable match for our larger 38mm Timex Weekender x Peanuts Holiday watch, making it easy for you and your little one to coordinate your holiday look.",
+            "description": "With its 34mm case, our Timex Color Rush x Peanuts Holiday watch is just the right size for the little Peanuts fan in your life. It brings fun to the holiday season with a charming light teal blue fabric strap adorned with a winter white snowflake pattern and a matching dial showcasing Snoopy's doghouse all decked out with lights. Plus, it's an adorable match for our larger 38mm Timex Weekender x Peanuts Holiday watch, making it easy for you and your little one to coordinate your holiday look.",
             "specification": {
                 "Product": "TW2W24700",
                 "Attachment Hardware Color": "Blue",
@@ -1718,7 +1818,7 @@
             "category": "Kids",
             "collection": "MACHINES",
             "rate": 4,
-            "description": "Made just for kids, our pink panda-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids’ watches are covered by our 100% worry-free replacement plan so you don’t worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
+            "description": "Made just for kids, our pink panda-themed watch features an easy-to-read dial, minute markers and adjustable elastic band. Plus, all of our kids' watches are covered by our 100% worry-free replacement plan so you don't worry about lost or broken watches. See timex.com/kids-warranty.html for details.",
             "specification": {
                 "Product": "TW7C77100",
                 "Attachment Hardware Color": "Pink",
@@ -2034,7 +2134,7 @@
             "category": "Men",
             "collection": "Expedition North",
             "rate": 4,
-            "description": "Our Expedition North® Field Chronograph brings the first chronograph collection to our Expedition North® line. Rugged yet refined, its sturdy build and clean design are modeled after classic military-style watches of the past. A true field watch that’s ready for whatever lies in the route ahead, it’s equipped with a durable stainless-steel case with titanium-colored PVD, a screw-down crown and screw-on case back offering 100m of water resistance, a sapphire crystal lens with anti-reflective coating, and luminant hands and hour markers for visibility on even the darkest nights. A soft synthetic rubber strap with 100% recycled cotton overlay provides an everyday style that takes you from the office to the outdoors so you’re ready to answer when the wilderness calls.",
+            "description": "Our Expedition North® Field Chronograph brings the first chronograph collection to our Expedition North® line. Rugged yet refined, its sturdy build and clean design are modeled after classic military-style watches of the past. A true field watch that's ready for whatever lies in the route ahead, it's equipped with a durable stainless-steel case with titanium-colored PVD, a screw-down crown and screw-on case back offering 100m of water resistance, a sapphire crystal lens with anti-reflective coating, and luminant hands and hour markers for visibility on even the darkest nights. A soft synthetic rubber strap with 100% recycled cotton overlay provides an everyday style that takes you from the office to the outdoors so you're ready to answer when the wilderness calls.",
             "specification": {
                 "Product": "TW2V96300",
                 "Attachment Hardware Color": "Black",
@@ -2425,7 +2525,7 @@
             "category": "Women",
             "collection": "Standard",
             "rate": 3,
-            "description": "Get ready to up your standards. Our Timex Standard shines as one of our most refined everyday watches. With careful attention to detail, we’ve crafted a timepiece perfect for everyday wear bringing together modern materials and classic watchmaking elements, including the vintage-inspired oversized crown — a nod to our original wristwatch. This watch is completed with a two-tone stainless-steel bracelet, mother-of-pearl dial and a moon phase sub-dial that indicates the current phase of the moon, reflecting what you see when you marvel up at the night sky.",
+            "description": "Get ready to up your standards. Our Timex Standard shines as one of our most refined everyday watches. With careful attention to detail, we've crafted a timepiece perfect for everyday wear bringing together modern materials and classic watchmaking elements, including the vintage-inspired oversized crown — a nod to our original wristwatch. This watch is completed with a two-tone stainless-steel bracelet, mother-of-pearl dial and a moon phase sub-dial that indicates the current phase of the moon, reflecting what you see when you marvel up at the night sky.",
             "specification": {
                 "Product": "TW2U98400",
                 "Attachment Hardware Color": "Two-Tone",
