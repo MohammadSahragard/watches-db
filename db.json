@@ -265,6 +265,48 @@
             ]
         },
         {
+            "id": "TW2V41700",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V41700/Expedition%20North%20Field%20Mechanical%2038mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
+            "name": "Timex UFC Colossus 45mm Stainless Steel Bracelet Watch",
+            "colors": [
+                {
+                    "name": "Silver-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V41700/Expedition%20North%20Field%20Mechanical%2038mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
+                }
+            ],
+            "price": 259.00,
+            "weight": "38 mm",
+            "category": "Men",
+            "collection": "Expedition North",
+            "rate": 4,
+            "description": "Directly inspired by military-issued designs from decades past, our Field Post 38 Mechanical watch does more than look the part—it features a sturdy crown and screw-down case back giving it 100 meters of water resistance, plus luminous hands and dial markings, a hand-winding mechanical movement, and a scratch-resistant, anti-reflective sapphire crystal. All that functionality comes in a 38mm stainless-steel case and bracelet. For the mechanical movement, wind the crown until you feel a slight resistance. This is best done at the same time each day to keep the watch continually running.",
+            "specification": {
+                "Product": "TW2V41700",
+                "Attachment Color": "Black",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "Clasp (Fold-Over)",
+                "Case Color": "Black",
+                "Case Diameter": "38 mm",
+                "Case Finish": "Brushed/Beadblast",
+                "Case Height": "8.5 mm",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Sapphire",
+                "Dial Color": "Black",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Watch Movement": "00F",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V41700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V41700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V41700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V41700/behind.webp"
+            ]
+        },
+        {
             "id": "TW2U61700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U61700/Q%20Timex%20Reissue%2038mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Q Timex Reissue 38mm Stainless Steel Bracelet Watch",
@@ -2117,16 +2159,16 @@
         },
         {
             "id": "TW2V96300",
-            "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/Expedition%20North%20Field%20Chrono%2043mm%20Recycled%20Mixed%20Materials%20Strap%20Watch.webp",
             "name": "Expedition North® Field Chrono 43mm Recycled Mixed Materials Strap Watch",
             "colors": [
                 {
                     "name": "Black/Titanium",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/Expedition%20North%20Field%20Chrono%2043mm%20Recycled%20Mixed%20Materials%20Strap%20Watch.webp"
                 },
                 {
                     "name": "Black/Titanium/Green/N/A",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/Black_Titanium_Green_N_A.webp"
                 }
             ],
             "price": 249.00,
@@ -2154,11 +2196,10 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900",
-                "https://timex.eu/cdn/shop/products/TW2V91200_B.png?v=1694616744&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V91200_C.png?v=1694616744&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V91200_D.png?v=1694616744&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V91200_E.png?v=1694616744&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/behind.webp"
             ]
         },
         {
