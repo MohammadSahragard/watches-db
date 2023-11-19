@@ -1785,20 +1785,20 @@
     "trending": [
         {
             "id": 31,
-            "image": "https://timex.eu/cdn/shop/files/TW2V72900.png?v=1695324736&width=640",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/Timex%20x%20Jacquie%20Aiche%2036mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex x Jacquie Aiche 36mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
                     "name": "Gold-Tone/Gold-Tone/Blue",
-                    "image": "https://timex.eu/cdn/shop/files/TW2V72900.png?v=1695324736&width=640"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/Timex%20x%20Jacquie%20Aiche%2036mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 },
                 {
                     "name": "Gold-Tone/Gold-Tone/Black",
-                    "image": "https://timex.eu/cdn/shop/files/TW2V72800.png?v=1695325265&width=640"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/Gold-Tone_Gold-Tone_Black.webp"
                 },
                 {
                     "name": "Gold-Tone/Gold-Tone/Mother of Pearl",
-                    "image": "https://timex.eu/cdn/shop/files/TW2V72600.png?v=1695324784&width=640"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/Gold-Tone_Gold-Tone_Mother%20of%20Pearl.webp"
                 }
             ],
             "price": 350.00,
@@ -1827,29 +1827,28 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/files/TW2V72900.png?v=1695324736&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V72900_B.png?v=1695324735&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V72900_C.png?v=1695324735&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V72900_D.png?v=1695324736&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V72900_E.png?v=1695324736&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V72900/behind.webp"
             ]
         },
         {
             "id": 32,
-            "image": "https://timex.com/cdn/shop/products/TW2V91900.png?v=1697482755&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Harborside%20Coast%2043mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Harborside Coast 43mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
-                    "name": "Stainless Steel",
-                    "image": "https://timex.com/cdn/shop/products/TW2V91900.png?v=1697482755&width=900"
+                    "name": "Stainless Steel/Silver-Tone/Green/Silver-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Harborside%20Coast%2043mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 },
                 {
                     "name": "Silver-Tone/Stainless Steel/Green",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V65300_c2295e4c-daaf-44cc-a28f-f0d3b6b22980.png?v=1687314401&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Silver-Tone_Stainless%20Steel_Green.webp"
                 },
                 {
                     "name": "Two-Tone/Two-Tone/Blue",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V42000_892f7cf3-3737-4ca7-8acd-4de15b5310bb.png?v=1687314421&width=900"
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Two-Tone_Two-Tone_Blue.webp"
                 }
             ],
             "price": 119.00,
@@ -1876,25 +1875,24 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/files/TW2V91900.png?v=1694545489&width=900",
-                "https://timex.eu/cdn/shop/files/TW2V91900_B.png?v=1694545494&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V91900_C.png?v=1694545494&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V91900_D.png?v=1694545494&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V65300_c2295e4c-daaf-44cc-a28f-f0d3b6b22980.png?v=1687314401&width=900"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/behind.webp"
             ]
         },
         {
             "id": 33,
-            "image": "https://timex.eu/cdn/shop/files/TW2V66100.png?v=1694545206&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/Expedition%20North%20Freedive%20Ocean%20",
             "name": "Expedition North Freedive Ocean #tide Fabric Strap Watch",
             "colors": [
                 {
-                    "name": "Black",
-                    "image": "https://timex.eu/cdn/shop/files/TW2V66100.png?v=1694545206&width=900"
+                    "name": "Black/Black/Black/Black/Orange",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/Expedition%20North%20Freedive%20Ocean%20"
                 },
                 {
-                    "name": "Black/Black/Black/Black",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V66200.png?v=1695223943&width=900"
+                    "name": "Black/Black/Black/Black/Yellow",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/Black_Black_Black_Black_Yellow.webp"
                 }
             ],
             "price": 139.00,
@@ -1921,25 +1919,24 @@
                 "Water Resistance": "50 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/files/TW2V66100.png?v=1694545206&width=900",
-                "https://timex.eu/cdn/shop/files/TW2V66100_B.png?v=1694545206&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V66100_C.png?v=1694545206&width=640",
-                "https://timex.eu/cdn/shop/files/TW2V66100_D.png?v=1694545205&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V66200.png?v=1695223943&width=900"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/behind.webp"
             ]
         },
         {
             "id": 34,
-            "image": "https://timex.eu/cdn/shop/files/TW2W22000.png?v=1695321604&width=640",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/Expedition%20North%20Slack%20Tide%2041mm%20",
             "name": "Expedition North Slack Tide 41mm #tide Fabric Strap Watch",
             "colors": [
                 {
-                    "name": "Blue",
-                    "image": "https://timex.eu/cdn/shop/files/TW2W22000.png?v=1695321604&width=640"
+                    "name": "Blue/Stainless Steel/Blue/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/Expedition%20North%20Slack%20Tide%2041mm%20"
                 },
                 {
-                    "name": "Black",
-                    "image": "https://timex.eu/cdn/shop/files/TW2W21900.png?v=1695321246&width=640"
+                    "name": "Black/Stainless Steel/Black/Black",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/Black_Stainless%20Steel_Black_Black.webp"
                 }
             ],
             "price": 249.00,
@@ -1966,25 +1963,24 @@
                 "Water Resistance": "200 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/files/TW2W22000.png?v=1695321604&width=640",
-                "https://timex.eu/cdn/shop/files/TW2W22000_B.png?v=1695321603&width=640",
-                "https://timex.eu/cdn/shop/files/TW2W22000_C.png?v=1695321604&width=640",
-                "https://timex.eu/cdn/shop/files/TW2W22000_D.png?v=1695321604&width=640",
-                "https://timex.eu/cdn/shop/files/TW2W22000_E.png?v=1695321603&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/behind.webp"
             ]
         },
         {
             "id": 35,
-            "image": "https://timex.eu/cdn/shop/files/TW2V91700.png?v=1694545330&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/Harborside%20Coast%2043mm%20Synthetic%20Rubber%20Strap%20Watch.webp",
             "name": "Harborside Coast 43mm Silicone Strap Watch",
             "colors": [
                 {
-                    "name": "Black",
-                    "image": "https://timex.eu/cdn/shop/files/TW2V91700.png?v=1694545330&width=900"
+                    "name": "Black/Silver-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/Harborside%20Coast%2043mm%20Synthetic%20Rubber%20Strap%20Watch.webp"
                 },
                 {
-                    "name": "Silver-Tone/Black/Black",
-                    "image": "https://timex.eu/cdn/shop/products/TW2V27300_3ed4bdd1-c4d3-4d76-bc09-40d7fac0c39e.png?v=1687307853&width=900"
+                    "name": "Black/Silver-Tone/Black/Gold-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/Black_Silver-Tone_Black_Gold-Tone.webp"
                 }
             ],
             "price": 99.00,
@@ -2013,47 +2009,49 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/files/TW2V91700.png?v=1694545330&width=900",
-                "https://timex.eu/cdn/shop/products/TW2V27300_B.png?v=1687307853&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V27300_C.png?v=1687307853&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V27300_D.png?v=1687307853&width=640",
-                "https://timex.eu/cdn/shop/products/TW2V27300_I.png?v=1687307853&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/behind.webp"
             ]
         },
         {
             "id": 36,
             "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900",
-            "name": "Timex Marlin Hand-Wound x Snoopy Floral 34mm Leather Strap Watch",
+            "name": "Expedition North® Field Chrono 43mm Recycled Mixed Materials Strap Watch",
             "colors": [
                 {
-                    "name": "White/Rose Gold-Tone/Other",
+                    "name": "Black/Titanium",
+                    "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900"
+                },
+                {
+                    "name": "Black/Titanium/Green/N/A",
                     "image": "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900"
                 }
             ],
-            "price": 229.00,
-            "weight": "34 mm",
-            "category": "Women",
-            "collection": "Marlin",
+            "price": 249.00,
+            "weight": "43 mm",
+            "category": "Men",
+            "collection": "Expedition North",
             "rate": 4,
-            "description": "Grow happiness! Snoopy's unstoppable imagination has led him to the playful dial of our iconic Marlin Hand-Wound. We've paired the classic 34mm rose gold-tone stainless-steel case with an elegant white leather strap, while an excited Snoopy sits on the flower dial as Woodstock flies to him rotating as the sweep-second hand. Wind the crown until you feel a slight resistance—a motion best done at the same time each day to keep the watch continually running as your perfect accessory.",
+            "description": "Our Expedition North® Field Chronograph brings the first chronograph collection to our Expedition North® line. Rugged yet refined, its sturdy build and clean design are modeled after classic military-style watches of the past. A true field watch that’s ready for whatever lies in the route ahead, it’s equipped with a durable stainless-steel case with titanium-colored PVD, a screw-down crown and screw-on case back offering 100m of water resistance, a sapphire crystal lens with anti-reflective coating, and luminant hands and hour markers for visibility on even the darkest nights. A soft synthetic rubber strap with 100% recycled cotton overlay provides an everyday style that takes you from the office to the outdoors so you’re ready to answer when the wilderness calls.",
             "specification": {
-                "Product": "TW2V91200",
-                "Attachment Hardware Color": "White",
-                "Band Material": "Leather",
+                "Product": "TW2V96300",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "Synthetic Rubber",
                 "Buckle/Clasp": "Buckle",
-                "Case Color": "Rose Gold-Tone",
-                "Case Diameter": "34 mm",
-                "Case Finish": "Polished",
-                "Case Height": "10 mm",
+                "Case Color": "Titanium",
+                "Case Diameter": "43 mm",
+                "Case Finish": "Matte",
                 "Case Material": "Stainless Steel",
                 "Case Shape": "Round",
                 "Case Size": "Full Size",
-                "Crystal Lens": "Acrylic",
-                "Dial Color": "Other",
-                "Dial Markings": "Markers (Partial)",
-                "Strap and Lug Width": "18 mm",
-                "Watch Movement": "00F",
-                "Water Resistance": "30 meters"
+                "Crystal Lens": "Sapphire",
+                "Dial Color": "Black",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Watch Movement": "01L",
+                "Water Resistance": "100 meters"
             },
             "other images": [
                 "https://timex.eu/cdn/shop/products/TW2V91200.png?v=1695918351&width=900",
@@ -2065,12 +2063,12 @@
         },
         {
             "id": 37,
-            "image": "https://timex.eu/cdn/shop/files/TW2W14800.png?v=1694545799&width=900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/Waterbury%20Traditional%20Day%20Date%2039mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Waterbury Traditional Day Date 39mm Stainless Steel Bracelet Watch",
             "colors": [
                 {
-                    "name": "Stainless Steel",
-                    "image": "https://timex.eu/cdn/shop/files/TW2W14800.png?v=1694545799&width=900"
+                    "name": "Stainless Steel/Stainless Steel/Black/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/Waterbury%20Traditional%20Day%20Date%2039mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
                 }
             ],
             "price": 169.00,
@@ -2097,11 +2095,10 @@
                 "Water Resistance": "100 meters"
             },
             "other images": [
-                "https://timex.eu/cdn/shop/files/TW2W14800.png?v=1694545799&width=900",
-                "https://timex.eu/cdn/shop/files/TW2W14800_B.png?v=1694545799&width=640",
-                "https://timex.eu/cdn/shop/files/TW2W14800_C.png?v=1694545799&width=640",
-                "https://timex.eu/cdn/shop/files/TW2W14800_D.png?v=1694545799&width=640",
-                "https://timex.eu/cdn/shop/files/TW2W14800_X.jpg?v=1694545799&width=640"
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/behind.webp"
             ]
         }
     ],
