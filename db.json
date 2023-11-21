@@ -598,6 +598,46 @@
             ]
         },
         {
+            "id": "TW2W14800",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/Waterbury%20Traditional%20Day%20Date%2039mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
+            "name": "Waterbury Traditional Day Date 39mm Stainless Steel Bracelet Watch",
+            "colors": [
+                {
+                    "name": "Stainless Steel/Stainless Steel/Black/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/Waterbury%20Traditional%20Day%20Date%2039mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
+                }
+            ],
+            "price": 169.00,
+            "weight": "39 mm",
+            "category": "Men",
+            "collection": "Waterbury",
+            "rate": 5,
+            "description": "We've looked to our past, and we're paying homage to our original watch collection by using the Waterbury Watch Company logo on the dial and second hand, which bears the stylized W. Each watch displays our attention to craftsmanship and detail, with finely finished surfaces and careful applications of watchmaking ingenuity. Featuring a 39mm stainless-steel case, black dial with raised indices for an appealing three-dimensional effect, day and date feature, and stainless-steel bracelet, our Waterbury Traditional unites all these elements into something that's right for your wrist today, and right for all the days to come.",
+            "specification": {
+                "Product": "TW2W14800",
+                "Attachment Hardware Color": "Stainless Steel",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "Clasp (Deployment)",
+                "Case Color": "Stainless Steel",
+                "Case Diameter": "39 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Black",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W14800/behind.webp"
+            ]
+        },
+        {
             "id": "TW2U89700",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U89700/Timex%20Standard%2040mm%20Fabric%20and%20Leather%20Strap%20Watch.webp",
             "name": "Timex Standard 40mm Fabric and Leather Strap Watch",
@@ -644,6 +684,48 @@
             ]
         },
         {
+            "id": "TW2U55700",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/Navi%20XL%2041mm%20Synthetic%20Rubber%20Strap%20Watch.webp",
+            "name": "Navi XL 41mm Synthetic Rubber Strap Watch",
+            "colors": [
+                {
+                    "name": "Stainless Steel/Black/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/Navi%20XL%2041mm%20Synthetic%20Rubber%20Strap%20Watch.webp"
+                }
+            ],
+            "price": 90.99,
+            "weight": "43 mm",
+            "category": "Men",
+            "collection": "Waterbury",
+            "rate": 4,
+            "description": "We found what's old and made it cool again. Our Navi XL takes design inspiration from our earliest dive watches and makes it modern. The traditional stainless-steel case, navy blue dial and soft-yet-sturdy black synthetic rubber strap provide a modern touch to this archival design.",
+            "specification": {
+                "Product": "TW2U55700",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "Synthetic",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Stainless Steel",
+                "Case Diameter": "41 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Height": "12.5 mm",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Blue",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U55700/behind.webp"
+            ]
+        },
+        {
             "id": "TW2V56800",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/Timex%20UFC%20Debut%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex UFC Debut 42mm Stainless Steel Bracelet Watch",
@@ -682,6 +764,54 @@
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/back.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/perspective.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V56800/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2V91900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Harborside%20Coast%2043mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
+            "name": "Harborside Coast 43mm Stainless Steel Bracelet Watch",
+            "colors": [
+                {
+                    "name": "Stainless Steel/Silver-Tone/Green/Silver-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Harborside%20Coast%2043mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
+                },
+                {
+                    "name": "Silver-Tone/Stainless Steel/Green",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Silver-Tone_Stainless%20Steel_Green.webp"
+                },
+                {
+                    "name": "Two-Tone/Two-Tone/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/Two-Tone_Two-Tone_Blue.webp"
+                }
+            ],
+            "price": 119.00,
+            "weight": "43 mm",
+            "category": "Men",
+            "collection": "Harborside Coast",
+            "rate": 4,
+            "description": "Our Harborside Coast has an elevated look meticulously designed with nautical influence at the helm. Featuring a 43mm silver-tone case, this diver-inspired, polished-yet-rugged watch stands out on the wrist with a stainless-steel bracelet with quick release spring bars. Complete with 100m of water resistance, a rotating bezel, and a beautiful aventurine-colored dial reminiscent of the sea, the Harborside Coast is ready to set sail.",
+            "specification": {
+                "Product": "TW2V91900",
+                "Attachment Hardware Color": "Stainless Steel",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "Clasp (Deployment)",
+                "Case Color": "Silver-Tone",
+                "Case Diameter": "43 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Material": "Low Lead Brass",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Green",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91900/behind.webp"
             ]
         },
         {
@@ -728,6 +858,185 @@
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/back.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/perspective.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V22100/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2V66100",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/Expedition%20North%20Freedive%20Ocean%20",
+            "name": "Expedition North Freedive Ocean #tide Fabric Strap Watch",
+            "colors": [
+                {
+                    "name": "Black/Black/Black/Black/Orange",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/Expedition%20North%20Freedive%20Ocean%20"
+                },
+                {
+                    "name": "Black/Black/Black/Black/Yellow",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/Black_Black_Black_Black_Yellow.webp"
+                }
+            ],
+            "price": 139.00,
+            "weight": "46 mm",
+            "category": "Men",
+            "collection": "Expedition North",
+            "rate": 3,
+            "description": "Rain or shine, inland or coast—Expedition North goes the distance. Inspired by those who seek to preserve our planet, the new Expedition Freedive Ocean is equipped with several eco-friendly features: a solar-powered Japanese movement that eliminates the need for battery changes, a rugged dark grey case made from #TIDE™ ocean-bound plastic, and a doubled layered #TIDE™ strap. Of course, this collection doesn't skimp on style either—the substantial 46mm case features a diver-inspired design with a uni-directional bezel and sturdy crown guard. The black dial boasts a date window and large, easy-to-read hand and hour markers and 50-meter water resistance.",
+            "specification": {
+                "Product": "TW2V66100",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "#tide ocean material",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Black",
+                "Case Diameter": "46 mm",
+                "Case Finish": "Matte",
+                "Case Material": "#tide ocean material",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Black",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "22 mm",
+                "Water Resistance": "50 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V66100/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2W22000",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/Expedition%20North%20Slack%20Tide%2041mm%20",
+            "name": "Expedition North Slack Tide 41mm #tide Fabric Strap Watch",
+            "colors": [
+                {
+                    "name": "Blue/Stainless Steel/Blue/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/Expedition%20North%20Slack%20Tide%2041mm%20"
+                },
+                {
+                    "name": "Black/Stainless Steel/Black/Black",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/Black_Stainless%20Steel_Black_Black.webp"
+                }
+            ],
+            "price": 249.00,
+            "weight": "41 mm",
+            "category": "Men",
+            "collection": "Expedition North",
+            "rate": 3,
+            "description": "Rain or shine, inland or coast—Expedition North goes the distance. Inspired by those who seek to preserve our planet, the new Expedition Freedive Ocean is equipped with several eco-friendly features: a solar-powered Japanese movement that eliminates the need for battery changes, a rugged dark grey case made from #TIDE™ ocean-bound plastic, and a doubled layered #TIDE™ strap. Of course, this collection doesn't skimp on style either—the substantial 46mm case features a diver-inspired design with a uni-directional bezel and sturdy crown guard. The black dial boasts a date window and large, easy-to-read hand and hour markers and 50-meter water resistance.",
+            "specification": {
+                "Product": "TW2W22000",
+                "Attachment Hardware Color": "Blue",
+                "Band Material": "#tide ocean material",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Stainless Steel",
+                "Case Diameter": "41 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Blue",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Water Resistance": "200 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2W22000/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2V27300",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/Harborside%20Coast%2043mm%20Synthetic%20Rubber%20Strap%20Watch.webp",
+            "name": "Harborside Coast 43mm Silicone Strap Watch",
+            "colors": [
+                {
+                    "name": "Black/Silver-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/Harborside%20Coast%2043mm%20Synthetic%20Rubber%20Strap%20Watch.webp"
+                },
+                {
+                    "name": "Black/Silver-Tone/Black/Gold-Tone",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/Black_Silver-Tone_Black_Gold-Tone.webp"
+                }
+            ],
+            "price": 99.00,
+            "weight": "43 mm",
+            "category": "Men",
+            "collection": "Harborside Coast",
+            "rate": 5,
+            "description": "Our Harborside Coast has an elevated look meticulously designed with nautical influence at the helm. Featuring a 43mm, silver-tone case with 100 meters of water resistance, this diver-inspired, polished-yet-rugged watch stands out on the wrist with a soft synthetic rubber strap. Complete with an anodized aluminum inlay on a rotating bezel, plus luminescent paint on the markers and hands, the Harborside Coast is ready to set sail.",
+            "specification": {
+                "Product": "TW2V27300",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "Synthetic",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Silver-Tone",
+                "Case Diameter": "43 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Height": "11 mm",
+                "Case Material": "Low Lead Brass",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Black",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V91700/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2V96300",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/Expedition%20North%20Field%20Chrono%2043mm%20Recycled%20Mixed%20Materials%20Strap%20Watch.webp",
+            "name": "Expedition North® Field Chrono 43mm Recycled Mixed Materials Strap Watch",
+            "colors": [
+                {
+                    "name": "Black/Titanium",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/Expedition%20North%20Field%20Chrono%2043mm%20Recycled%20Mixed%20Materials%20Strap%20Watch.webp"
+                },
+                {
+                    "name": "Black/Titanium/Green/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/Black_Titanium_Green_N_A.webp"
+                }
+            ],
+            "price": 249.00,
+            "weight": "43 mm",
+            "category": "Men",
+            "collection": "Expedition North",
+            "rate": 4,
+            "description": "Our Expedition North® Field Chronograph brings the first chronograph collection to our Expedition North® line. Rugged yet refined, its sturdy build and clean design are modeled after classic military-style watches of the past. A true field watch that's ready for whatever lies in the route ahead, it's equipped with a durable stainless-steel case with titanium-colored PVD, a screw-down crown and screw-on case back offering 100m of water resistance, a sapphire crystal lens with anti-reflective coating, and luminant hands and hour markers for visibility on even the darkest nights. A soft synthetic rubber strap with 100% recycled cotton overlay provides an everyday style that takes you from the office to the outdoors so you're ready to answer when the wilderness calls.",
+            "specification": {
+                "Product": "TW2V96300",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "Synthetic Rubber",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Titanium",
+                "Case Diameter": "43 mm",
+                "Case Finish": "Matte",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Sapphire",
+                "Dial Color": "Black",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "20 mm",
+                "Watch Movement": "01L",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V96300/behind.webp"
             ]
         },
         {
@@ -881,7 +1190,7 @@
             ]
         },
         {
-            "id": "TW2V72900",
+            "id": "TW2V52800",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V52800/Timex%20Transcend%20x%20BCRF%2031mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
             "name": "Timex Transcend x BCRF 31mm Stainless Steel Bracelet Watch",
             "colors": [
@@ -897,7 +1206,7 @@
             "rate": 4,
             "description": "With an elegant sunray dial, polished rose gold-tone case design, and sleek rose gold-tone, stainless-steel mesh band, our thin Transcend™ watch is a symbol of strength and support for the millions of people battling breast cancer worldwide. Dimensional crystal dial markers attract just the right amount of attention to the signature breast cancer ribbon at the 6 o'clock mark, providing a meaningful reminder of the power of community.",
             "specification": {
-                "Product": "TW2V72900",
+                "Product": "TW2V52800",
                 "Attachment Hardware Color": "Gold-Tone",
                 "Band Material": "Stainless Steel",
                 "Buckle/Clasp": "Clasp (Fold-Over)",
@@ -1464,6 +1773,308 @@
             ]
         },
         {
+            "id": "TW2U90700",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/Waterbury%20Traditional%20Chronograph%2042mm%20Leather%20Strap%20Watch.webp",
+            "name": "Waterbury Traditional Chronograph 42mm Leather Strap Watch",
+            "colors": [
+                {
+                    "name": "Tan/Stainless Steel/Green/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/Waterbury%20Traditional%20Chronograph%2042mm%20Leather%20Strap%20Watch.webp"
+                }
+            ],
+            "price": 110.99,
+            "weight": "43 mm",
+            "category": "Women",
+            "collection": "Waterbury",
+            "rate": 4,
+            "description": "We have looked to our past, and we're paying homage to our original watch collection by using the Waterbury Watch Company logo on the dial, crown and second hand, which bears the stylized W. Each watch displays our attention to craftsmanship and detail, with finely-finished surfaces and careful applications of watchmaking ingenuity. Featuring a classic green dial and a rich caramel brown leather strap, our Waterbury Traditional Chronograph unites all of these elements into something that delivers function just as well as form. The watch's dial has three sub-dials — chronograph minutes and hours, as well as running seconds — laid out in a brushed inner circle to provide depth and detail, and it also features an ever-practical date display window situated at four o'clock.",
+            "specification": {
+                "Product": "TW2U90700",
+                "Attachment Hardware Color": "Tan",
+                "Band Material": "Leather",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Stainless Steel",
+                "Case Diameter": "42 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Height": "11.5 mm",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Green",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "22 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90700/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2U90900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/Waterbury%20Traditional%20Chronograph%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
+            "name": "Waterbury Traditional Chronograph 42mm Stainless Steel Bracelet Watch",
+            "colors": [
+                {
+                    "name": "Stainless Steel/Stainless Steel/Blue/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/Waterbury%20Traditional%20Chronograph%2042mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
+                }
+            ],
+            "price": 125.99,
+            "weight": "42 mm",
+            "category": "Women",
+            "collection": "Waterbury",
+            "rate": 5,
+            "description": "We have looked to our past, and we're paying homage to our original watch collection by using the Waterbury Watch Company logo on the dial, crown and second hand, which bears the stylized W. Each watch displays our attention to craftsmanship and detail, with finely-finished surfaces and careful applications of watchmaking ingenuity. Featuring a classic blue dial and a durable stainless-steel bracelet, our Waterbury Traditional Chronograph unites all of these elements into something that delivers function just as well as form. The watch's dial has three sub-dials — chronograph minutes and hours, as well as running seconds — laid out in a brushed inner circle to provide depth and detail, and it also features an ever-practical date display window situated at four o'clock.",
+            "specification": {
+                "Product": "TW2U90900",
+                "Attachment Hardware Color": "Stainless Steel",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "Clasp (Deployment)",
+                "Case Color": "Stainless Steel",
+                "Case Diameter": "42 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Height": "11.5 mm",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Blue",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "22 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U90900/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2V53500",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/Q%20Timex%20Celestial%2036mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp",
+            "name": "Q Timex Celestial 36mm Stainless Steel Expansion Band Watch",
+            "colors": [
+                {
+                    "name": "Blue/Blue/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/Q%20Timex%20Celestial%2036mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp"
+                },
+                {
+                    "name": "Gold-Tone/Gold-Tone/Blue",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/Gold-Tone_Gold-Tone_Blue_Blue.webp"
+                }
+            ],
+            "price": 132.99,
+            "weight": "36 mm",
+            "category": "Women",
+            "collection": "Q",
+            "rate": 5,
+            "description": "Inspired by our archival designs from the age of quartz, we stayed true to the original details of our 1970s Q Timex with this elegant iteration. While everything from the stainless-steel case and rotating top ring, to the functional battery hatch and domed acrylic crystal make this beauty true-to-the-era, a midnight-blue and gold-tone colorway with crystal accents land its heritage-inspired features among the stars. Take the enchanting night sky with you wherever you go thanks to our comfortable Perfect Fit expansion band, easily adjustable for a look and fit you'll love.",
+            "specification": {
+                "Product": "TW2V53500",
+                "Attachment Hardware Color": "Blue",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "Clasp (Fold-Over)",
+                "Case Color": "Blue",
+                "Case Diameter": "36 mm",
+                "Case Finish": "Brushed/Polished",
+                "Case Height": "12 mm",
+                "Case Material": "Stainless Steel",
+                "Case Shape": "Round",
+                "Case Size": "Mid Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "Blue",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "16 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "50 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V53500/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2V71900",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/Timex%20Standard%20Tachymeter%20Chronograph%2043mm%20Eco-Friendly%20Resin%20Strap%20Watch.webp",
+            "name": "Timex Standard Tachymeter Chronograph 43mm Eco-Friendly Resin Strap Watch",
+            "colors": [
+                {
+                    "name": "Black/Black/Black/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/Timex%20Standard%20Tachymeter%20Chronograph%2043mm%20Eco-Friendly%20Resin%20Strap%20Watch.webp"
+                }
+            ],
+            "price": 68.99,
+            "weight": "38 mm",
+            "category": "Women",
+            "collection": "Transcend",
+            "rate": 4,
+            "description": "With an elegant white multifunction dial and a pink leather strap, this ultra-thin rose gold-tone stainless steel watch case offers a touch of simplicity and sophistication to your look. You will always be a step ahead with our Transcend collection.",
+            "specification": {
+                "Product": "TW2V71900",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "eco-conscious material",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Black",
+                "Case Diameter": "43 mm",
+                "Case Finish": "Beadblasted",
+                "Case Height": "12 mm",
+                "Case Material": "Low Lead Brass",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Black",
+                "Dial Markings": "Arabic (Partial)",
+                "Strap and Lug Width": "22 mm",
+                "Watch Movement": "08W",
+                "Water Resistance": "100 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V71900/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2R79000",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Timex%20T80%2034mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp",
+            "name": "Timex T80 34mm Stainless Steel Expansion Band Watch",
+            "colors": [
+                {
+                    "name": "Gold-Tone/Gold-Tone/Digital",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Timex%20T80%2034mm%20Stainless%20Steel%20Expansion%20Band%20Watch.webp"
+                },
+                {
+                    "name": "Black/Black/Digital",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Black_Black_Digital.webp"
+                },
+                {
+                    "name": "Stainless Steel/Silver-Tone/Digital",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/Stainless%20Steel_Silver-Tone_Digital.webp"
+                }
+            ],
+            "price": 59.00,
+            "weight": "34 mm",
+            "category": "Women",
+            "collection": "Timex T80",
+            "rate": 5,
+            "description": "Our T80 is a throwback to the decade that gave us big hair, big music, and big dreams. It also pays homage to our first digital watches, some of the first to hit the market. To honor those early hits, we're proudly reintroducing the T80 for a whole new generation – a watch that's both a stylish accessory and a serious timekeeping device. The fun, retro design in all-purple — which now features our Perfect Fit stainless-steel expansion band technology — packs a date display, stopwatch, and alarm into something that looks great no matter where you're going from here. Note: The circumference on our T80 expansion band watch is 183mm. Additional links can be easily removed to make the watch smaller for a look and fit you'll love.",
+            "specification": {
+                "Product": "TW2R79000",
+                "Attachment Color": "Gold-Tone",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "N/A",
+                "Case Color": "Gold-Tone",
+                "Case Diameter": "34 mm",
+                "Case Finish": "Polished",
+                "Case Height": "10 mm",
+                "Case Material": "Resin",
+                "Case Shape": "Unique",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Acrylic",
+                "Dial Color": "Digital",
+                "Dial Markings": "Digital",
+                "Strap and Lug Width": "18 mm",
+                "Watch Movement": "555",
+                "Water Resistance": "30 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2R79000/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2U41200",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U41200/Celestial%20Opulence%2038mm%20Leather%20Strap%20Watch.webp",
+            "name": "Celestial Opulence 38mm Leather Strap Watch",
+            "colors": [
+                {
+                    "name": "Black/Gold",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U41200/Celestial%20Opulence%2038mm%20Leather%20Strap%20Watch.webp"
+                }
+            ],
+            "price": 69.99,
+            "weight": "38 mm",
+            "category": "Women",
+            "collection": "Standard",
+            "rate": 1,
+            "description": "Inspired by the beauty of the star-scattered night sky, the unique details of our Celestial Opulence watch stand out on your wrist. The black glittering dial and crystal markers are complemented by a black natural leather strap and polished gold-tone case for a brilliant shine.",
+            "specification": {
+                "Product": "TW2U41200",
+                "Attachment Hardware Color": "Black",
+                "Band Material": "Leather",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Gold-Tone",
+                "Case Diameter": "38 mm",
+                "Case Finish": "Polished",
+                "Case Height": "8 mm",
+                "Case Material": "Low Lead Brass",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Black",
+                "Dial Markings": "Markers (Full)",
+                "Strap and Lug Width": "18 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "50 meters"
+            },
+            "other images": []
+        },
+        {
+            "id": "TW2T74500",
+            "image": "https://timex.eu/cdn/shop/products/TW2T74500_b5239136-7246-4370-b9b8-5ce491b0addf.png?v=1687311747&width=900",
+            "name": "Transcend™ Multifunction 38mm Stainless Steel Mesh Band Watch",
+            "colors": [
+                {
+                    "name": "Rose Gold-Tone/Rose Gold-Tone/Pink",
+                    "image": "https://timex.eu/cdn/shop/products/TW2T74500_b5239136-7246-4370-b9b8-5ce491b0addf.png?v=1687311747&width=900"
+                }
+            ],
+            "price": 75.99,
+            "weight": "38 mm",
+            "category": "Women",
+            "collection": "Transcend",
+            "rate": 4,
+            "description": "With an elegant blush multifunction dial and a rose gold-tone stainless steel mesh band, this ultra-thin rose gold-tone stainless steel watch case offers a touch of simplicity and sophistication to your look. You will always be a step ahead with our Transcend collection.",
+            "specification": {
+                "Product": "TW2T74500",
+                "Attachment Hardware Color": "Rose Gold-Tone",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "Buckle",
+                "Case Color": "Rose Gold-Tone",
+                "Case Diameter": "38 mm",
+                "Case Finish": "Polished",
+                "Case Height": "6.5 mm",
+                "Case Material": "Low Lead Brass",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Pink",
+                "Dial Markings": "Markers (Partial)",
+                "Strap and Lug Width": "18 mm",
+                "Watch Movement": "Quartz Digital",
+                "Water Resistance": "50 meters"
+            },
+            "other images": [
+                "https://timex.eu/cdn/shop/products/TW2T74500_b5239136-7246-4370-b9b8-5ce491b0addf.png?v=1687311747&width=900",
+                "https://timex.eu/cdn/shop/products/TW2T74500_B.png?v=1687311747&width=640",
+                "https://timex.eu/cdn/shop/products/TW2T74500_C.png?v=1687311747&width=640",
+                "https://timex.eu/cdn/shop/products/TW2T74500_D.png?v=1687311747&width=640",
+                "https://timex.eu/cdn/shop/products/TW2T74500_I.png?v=1687311747&width=640"
+            ]
+        },
+        {
             "id": "TW2V33100",
             "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V33100/Legacy%20Ocean%2037mm%20Recycled%20Plastic%20Bracelet%20Watch.webp",
             "name": "Legacy Ocean 37mm Recycled Plastic Bracelet Watch",
@@ -1514,6 +2125,48 @@
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V33100/back.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V33100/perspective.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V33100/behind.webp"
+            ]
+        },
+        {
+            "id": "TW2U98400",
+            "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/Timex%20Standard%2034mm%20Stainless%20Steel%20Bracelet%20Watch.webp",
+            "name": "Timex Standard 34mm Stainless Steel Bracelet Watch",
+            "colors": [
+                {
+                    "name": "Two-Tone/Silver-Tone/Mother of Pearl/N/A",
+                    "image": "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/Timex%20Standard%2034mm%20Stainless%20Steel%20Bracelet%20Watch.webp"
+                }
+            ],
+            "price": 90.99,
+            "weight": "34 mm",
+            "category": "Women",
+            "collection": "Standard",
+            "rate": 3,
+            "description": "Get ready to up your standards. Our Timex Standard shines as one of our most refined everyday watches. With careful attention to detail, we've crafted a timepiece perfect for everyday wear bringing together modern materials and classic watchmaking elements, including the vintage-inspired oversized crown — a nod to our original wristwatch. This watch is completed with a two-tone stainless-steel bracelet, mother-of-pearl dial and a moon phase sub-dial that indicates the current phase of the moon, reflecting what you see when you marvel up at the night sky.",
+            "specification": {
+                "Product": "TW2U98400",
+                "Attachment Hardware Color": "Two-Tone",
+                "Band Material": "Stainless Steel",
+                "Buckle/Clasp": "Clasp (Deployment)",
+                "Case Color": "Silver-Tone",
+                "Case Diameter": "34 mm",
+                "Case Finish": "Polished",
+                "Case Height": "7.5 mm",
+                "Case Material": "Low Lead Brass",
+                "Case Shape": "Round",
+                "Case Size": "Full Size",
+                "Crystal Lens": "Mineral Glass",
+                "Dial Color": "Mother of Pearl",
+                "Dial Markings": "Arabic (Full)",
+                "Strap and Lug Width": "14 mm",
+                "Watch Movement": "Quartz Analog",
+                "Water Resistance": "50 meters"
+            },
+            "other images": [
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/side.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/back.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/perspective.webp",
+                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2U98400/behind.webp"
             ]
         },
         {
