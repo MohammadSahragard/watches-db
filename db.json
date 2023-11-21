@@ -2649,6 +2649,148 @@
         "MACHINES",
         "Analog"
     ],
+    "reviews": [
+        {
+            "id": 1,
+            "user": "Chris R",
+            "content": "Everything about the order and watch is great.",
+            "rate": 5,
+            "date": "3 days ago"
+        },
+        {
+            "id": 2,
+            "user": "Paul K",
+            "content": "Excellent watch. Great design.",
+            "rate": 5,
+            "date": "12 days ago"
+        },
+        {
+            "id": 3,
+            "user": "Robert B",
+            "content": "BrokenThe watch does not work. The small dials have black pointers not white as in the photo so even if it were working, black on black makes it unreadable.",
+            "rate": 1,
+            "date": "2 weeks ago"
+        },
+        {
+            "id": 4,
+            "user": "Marcelo M",
+            "content": "I've asked for a refund but replies are still missing after days and days.",
+            "rate": 5,
+            "date": "2 weeks ago"
+        },
+        {
+            "id": 5,
+            "user": "Guitarsmurf2501",
+            "content": "Chron Really love the design on this one. No chapter ring, but instead the dial curves upwards towards the glass. Beautiful sage green dial. Indices are cutouts which is something you don't see a lot. The dial is very legible and so is the date window, which is in the 4 o'clock position. Nice brushing on the side of the barrel shaped case, polish on theRead more about review stating Midtown 40mm Chrono top and bottom.",
+            "rate": 5,
+            "date": "3 weeks ago"
+        },
+        {
+            "id": 6,
+            "user": "David A",
+            "content": "No indiglo.",
+            "rate": 4,
+            "date": "3 weeks ago"
+        },
+        {
+            "id": 7,
+            "user": "Greg B",
+            "content": "The color is not near as pictured. Also the finish is shiny and metallic and reflective.",
+            "rate": 3,
+            "date": "1 month ago"
+        },
+        {
+            "id": 8,
+            "user": "Franz N",
+            "content": "Strap fell apart the second time I wore it, and customer service hasn't responded.",
+            "rate": 1,
+            "date": "1 month ago"
+        },
+        {
+            "id": 9,
+            "user": "Cydney G",
+            "content": "Very nice, lightweight and stylish.",
+            "rate": 5,
+            "date": "1 month ago"
+        },
+        {
+            "id": 10,
+            "user": "Raun B",
+            "content": "TimeThe watch arrived in perfect shape. I only needed to have the wristband, which was too big, adjusted. I wore it on a trip to England, and it kept perfect time.",
+            "rate": 5,
+            "date": "1 month ago"
+        },
+        {
+            "id": 11,
+            "user": "Anthony D",
+            "content": "friendlySuper durable and light weight , love the color and texture and of course keeping my time on time.",
+            "rate": 5,
+            "date": "2 months ago"
+        },
+        {
+            "id": 12,
+            "user": "Matthew M",
+            "content": "Incomplete. never got the item.",
+            "rate": 5,
+            "date": "2 months ago"
+        },
+        {
+            "id": 13,
+            "user": "Rick R",
+            "content": "It's a great watch, fun to wear and keeps excellent time!",
+            "rate": 5,
+            "date": "2 months ago"
+        },
+        {
+            "id": 14,
+            "user": "Joe B",
+            "content": "I like the fact that Timex cares enough about the Ocean plastic to bring it to the attention of the public. Nice watch.",
+            "rate": 5,
+            "date": "2 months ago"
+        },
+        {
+            "id": 15,
+            "user": "John C",
+            "content": "Great and expensive to purchase. Keeps time accurately. Indigo makes checking the time in the depths of the night very easy. Worth the money.",
+            "rate": 5,
+            "date": "3 moths ago"
+        },
+        {
+            "id": 16,
+            "user": "Stoyko K",
+            "content": "It's very nice. I hope to see it upgraded with sapphire crystal and rotating bezel.",
+            "rate": 4,
+            "date": "3 moths ago"
+        },
+        {
+            "id": 17,
+            "user": "Martin G",
+            "content": "The watch is great. The band is stiff and the material is so rough I began to get a rash & pain after a couple of days. I bought a silicone band & swapped it with your band. Now everything is comfortable & secure.",
+            "rate": 4,
+            "date": "4 moths ago"
+        },
+        {
+            "id": 18,
+            "user": "Stephen L",
+            "content": "The watch overall is pretty good. Crown is protected by the crown guards, great color scheme. The biggest downside is the bezel. Its non rotating so its basically a big field watch that reminds you of all the things you could time. It looks similar to the expedition with an ana-digs display. If this model had a rotating bezel id buy it again. GoodRead more about review stating Good watch, missed opportunity watch, missed opportunity.",
+            "rate": 3,
+            "date": "4 moths ago"
+        },
+        {
+            "id": 19,
+            "user": "Kimball R",
+            "content": "Nice watch my wife likes it and wears it all the time.The only complaint I have is it's a month old and I had to replace battery already because it was losing time.",
+            "rate": 3,
+            "date": "4 moths ago"
+        },
+        {
+            "id": 20,
+            "user": "Carl B",
+            "content": "The watch is very very very loud and is plastic. The watch do the job but it is so loud, you can not have it in the same room as you. Don't but because it it too loud.",
+            "rate": 1,
+            "date": "5 moths ago"
+        }
+    ],
     "cart": [
         {
             "id": 1,
