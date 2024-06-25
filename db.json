@@ -41,7 +41,7 @@
             },
             "other images": [
                 "https://raw.githubusercontent.com/MohammadSahragard/watches-db/main/watches/TW2V54000/side.webp?token=GHSAT0AAAAAACQKANRQOYJAKPXWHITBOJUGZT2Z2PQ",
-                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/back.webp",
+                "https://raw.githubusercontent.com/MohammadSahragard/watches/TW2V54000/back.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/perspective.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/behind.webp"
             ]
