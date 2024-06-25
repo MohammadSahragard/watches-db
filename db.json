@@ -2,7 +2,7 @@
     "watches": [
         {
             "id": "TW2V54000",
-            "image": "https://github.com/MohammadSahragard/watches-db/blob/main/watches/TW2V54000/Expedition%20North%20Titanium%20Automatic%2041mm%20Eco-Friendly%20Leather%20Strap%20Watch.webp",
+            "image": "https://raw.githubusercontent.com/MohammadSahragard/watches-db/main/watches/TW2V54000/Expedition%20North%20Titanium%20Automatic%2041mm%20Eco-Friendly%20Leather%20Strap%20Watch.webp?token=GHSAT0AAAAAACQKANRQVBZSPG3RMY6KTNMKZT2ZTKA",
             "name": "Expedition North Titanium Automatic 41mm Eco-Friendly Leather Strap Watch",
             "colors": [
                 {
@@ -40,7 +40,7 @@
                 "Water Resistance": "200 meters"
             },
             "other images": [
-                "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/side.webp",
+                "https://raw.githubusercontent.com/MohammadSahragard/watches-db/main/watches/TW2V54000/side.webp?token=GHSAT0AAAAAACQKANRQOYJAKPXWHITBOJUGZT2Z2PQ",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/back.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/perspective.webp",
                 "https://ahpbkjnjvzvxwsenxzjl.supabase.co/storage/v1/object/public/timex/TW2V54000/behind.webp"
